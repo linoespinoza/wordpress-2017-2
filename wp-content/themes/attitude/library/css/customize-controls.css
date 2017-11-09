@@ -1,0 +1,36 @@
+.accordion-section-title .upgrade-to-pro {
+	padding: 3px 10px;
+	margin-top: -2px;
+	display: inline-block;
+	background-color: #78B43C;
+	-webkit-border-radius: 3px;
+	-moz-border-radius:3px;
+	border-radius: 3px;
+	color: #fff;
+	text-decoration: none;
+	float: right;
+}
+.accordion-section-title .upgrade-to-pro:hover {
+	background-color: #71A83B;
+}
+.theme-info {
+	margin-right: -12px;
+	margin-left: -12px;
+	margin-top: -16px;
+}
+.theme-info a {
+	padding: 10px 10px 11px 14px;
+	font-size: 14px;
+	line-height: 21px;
+	background: #fff;
+	color: #555d66;
+	display: block;
+	text-decoration: none;
+	margin-top: 1px;
+	border-left: 4px solid #fff;
+}
+.theme-info a:hover {
+	color: #0073aa;
+	background: #f3f3f5;
+	border-left-color: #0073aa;
+}

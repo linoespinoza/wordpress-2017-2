@@ -1,0 +1,12 @@
+/*
+Theme Name:     TwentyFifteen Child Theme
+Description:    A demo child theme for the default TwentyFifteen theme
+Author:         zgordon
+Template:       twentyfifteen
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+h1 {
+	color: #FF0000;
+}

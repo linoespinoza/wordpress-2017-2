@@ -1,0 +1,918 @@
+# Attitude WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Attitude Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Attitude\n"
+"POT-Creation-Date: 2013-07-18 15:25+0545\n"
+"PO-Revision-Date: 2014-04-25 17:22+0100\n"
+"Last-Translator: Klaus <klaus@klauswalker.dk>\n"
+"Language-Team: Team Horse <support@themehorse.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: da\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "En tanke om &ldquo;%2$s&rdquo;"
+
+#: comments.php:35
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s tanker på &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; Ældre kommentarer"
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Nyere kommentarer &rarr;"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Kommentarer er lukkede"
+
+#: functions.php:129
+msgid "Primary Menu"
+msgstr "Primær menu"
+
+#: library/admin/attitude-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr ""
+"Vælg layout for kun denne specifikke side (Note: Denne indstilling virker "
+"hvis Template er sat som standard "
+
+#: library/admin/attitude-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Vælg standard layout for dette specifikke indlæg"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Standard layout indstilling"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Theme Settings"
+msgstr "Tema indstillinger"
+
+#: library/admin/attitude-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Ingen sidebar"
+
+#: library/admin/attitude-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "Ingen sidebar, fuld bredde"
+
+#: library/admin/attitude-metaboxes.php:56 library/admin/theme-options.php:328
+msgid "No Sidebar, One Column"
+msgstr "Ingen sidebar, en kolonne"
+
+#: library/admin/attitude-metaboxes.php:62
+msgid "Left sidebar"
+msgstr "Venstre sidebar"
+
+#: library/admin/attitude-metaboxes.php:68
+msgid "Right sidebar"
+msgstr "Højre sidebar"
+
+#: library/admin/theme-options.php:95 library/admin/theme-options.php:96
+msgid "Theme Options"
+msgstr "Tema indstillinger"
+
+#: library/admin/theme-options.php:125
+msgid "Theme Options by"
+msgstr "Tema indstillinger af"
+
+#: library/admin/theme-options.php:125
+msgid "http://themehorse.com/"
+msgstr "http://themehorse.com/"
+
+#: library/admin/theme-options.php:125
+#: library/shortcodes/attitude-shortcodes.php:61
+msgid "Theme Horse"
+msgstr "Theme Horse"
+
+#: library/admin/theme-options.php:127
+msgid "Confused about something? See"
+msgstr "Forvirret over noget? Se"
+
+#: library/admin/theme-options.php:128
+msgid "Attitude Theme Instructions"
+msgstr "Attitude tema instruktioner"
+
+#: library/admin/theme-options.php:128
+msgid "Theme Instructions"
+msgstr "Tema instruktioner"
+
+#: library/admin/theme-options.php:129
+msgid "Support Forum"
+msgstr "Support forum"
+
+#: library/admin/theme-options.php:130
+msgid "Attitude Demo"
+msgstr "Attitude demo"
+
+#: library/admin/theme-options.php:130
+msgid "View Demo"
+msgstr "Se demo"
+
+#: library/admin/theme-options.php:134
+msgid "Want to add bunch of additional features? Upgrade to Pro version!"
+msgstr "Vil du have en bunke ekstra funtioner? Opgrader til pro versionen!"
+
+#: library/admin/theme-options.php:135
+msgid "Upgrade to Pro"
+msgstr "Opgrader til pro"
+
+#: library/admin/theme-options.php:136
+msgid "Donate"
+msgstr "Doner"
+
+#: library/admin/theme-options.php:137
+msgid "Review Clean Retina"
+msgstr "Gennemse Clean retina"
+
+#: library/admin/theme-options.php:137
+msgid "Rate Attitude"
+msgstr "Vurder Attitude"
+
+#: library/admin/theme-options.php:154
+msgid "Settings saved."
+msgstr "Indstillinger er gemt"
+
+#: library/admin/theme-options.php:160
+msgid "Design Options"
+msgstr "Design indstillinger"
+
+#: library/admin/theme-options.php:161
+msgid "Advance Options"
+msgstr "Udvidede funktioner"
+
+#: library/admin/theme-options.php:162
+msgid "Featured Post/Page Slider"
+msgstr "Fremhævet indlæg / Side slider"
+
+#: library/admin/theme-options.php:163
+msgid "Social Links"
+msgstr "Social links"
+
+#: library/admin/theme-options.php:164
+msgid "Webmaster Tools"
+msgstr "Webmaster værktøjer"
+
+#: library/admin/theme-options.php:170
+msgid "Custom Header"
+msgstr "Brugerdefineret header"
+
+#: library/admin/theme-options.php:175 library/admin/theme-options.php:185
+msgid "Header Logo"
+msgstr "Header logo"
+
+#: library/admin/theme-options.php:178
+msgid "Change Header Logo"
+msgstr "Skift header logo"
+
+#: library/admin/theme-options.php:182 library/admin/theme-options.php:239
+#: library/admin/theme-options.php:270
+msgid "Preview"
+msgstr "Eksempel"
+
+#: library/admin/theme-options.php:190
+msgid "Show"
+msgstr "Vis"
+
+#: library/admin/theme-options.php:193
+msgid "Header Logo Only"
+msgstr "Kun header logo"
+
+#: library/admin/theme-options.php:196
+msgid "Header Text Only"
+msgstr "Kun header tekst"
+
+#: library/admin/theme-options.php:199
+msgid "Disable"
+msgstr "Deaktiver"
+
+#: library/admin/theme-options.php:204
+msgid "Need to replace Header Image?"
+msgstr "Brug for at skifte header billede?"
+
+#: library/admin/theme-options.php:207 library/admin/theme-options.php:364
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Klik her</a>"
+
+#: library/admin/theme-options.php:211
+msgid "Hide Searchform from Header"
+msgstr "Skjul søgeformular fra header"
+
+#: library/admin/theme-options.php:213
+msgid "Check to hide"
+msgstr "Marker for at skjule"
+
+#: library/admin/theme-options.php:217 library/admin/theme-options.php:248
+#: library/admin/theme-options.php:279 library/admin/theme-options.php:306
+#: library/admin/theme-options.php:350 library/admin/theme-options.php:397
+#: library/admin/theme-options.php:463 library/admin/theme-options.php:481
+#: library/admin/theme-options.php:514 library/admin/theme-options.php:580
+#: library/admin/theme-options.php:606 library/admin/theme-options.php:659
+#: library/admin/theme-options.php:692
+msgid "Save All Changes"
+msgstr "Gem alle ændringer"
+
+#: library/admin/theme-options.php:222
+msgid "Fav Icon Options"
+msgstr "Fav ikon indstillinger"
+
+#: library/admin/theme-options.php:227
+msgid "Disable Favicon"
+msgstr "Deaktiver favikon"
+
+#: library/admin/theme-options.php:229 library/admin/theme-options.php:260
+#: library/admin/theme-options.php:416 library/admin/theme-options.php:530
+msgid "Check to disable"
+msgstr "Marker for at deaktivere"
+
+#: library/admin/theme-options.php:232
+msgid "Fav Icon URL"
+msgstr "Fav ikon URL"
+
+#: library/admin/theme-options.php:235
+msgid "Change Fav Icon"
+msgstr "Skift fav ikon"
+
+#: library/admin/theme-options.php:242
+msgid "favicon"
+msgstr "favicon"
+
+#: library/admin/theme-options.php:253
+msgid "Web Clip Icon Options"
+msgstr "Web clip ikon indstillinger"
+
+#: library/admin/theme-options.php:258
+msgid "Disable Web Clip Icon"
+msgstr "Deaktiver Web Clip Ikon URL"
+
+#: library/admin/theme-options.php:263
+msgid "Web Clip Icon URL"
+msgstr "Web Clip Ikon URL"
+
+#: library/admin/theme-options.php:266
+msgid "Change Web Clip Icon"
+msgstr "Skift Web Clip Ikon"
+
+#: library/admin/theme-options.php:273
+msgid "webpage icon"
+msgstr "Hjemmeside Ikon"
+
+#: library/admin/theme-options.php:284
+msgid "Site Layout Options"
+msgstr "Hjemmesidens layout ikon"
+
+#: library/admin/theme-options.php:289
+msgid "Site Layout"
+msgstr "Hjemmeside layout"
+
+#: library/admin/theme-options.php:290
+msgid "This change is reflected in whole website"
+msgstr "Denne ændring slår igennem på hele hjemmesiden"
+
+#: library/admin/theme-options.php:295
+msgid "Narrow Layout"
+msgstr "Smalt layout"
+
+#: library/admin/theme-options.php:300
+msgid "Wide Layout"
+msgstr "Bredt layout"
+
+#: library/admin/theme-options.php:311
+msgid "Default Layout Options"
+msgstr "Standard layout indstillinger"
+
+#: library/admin/theme-options.php:316
+msgid "Default Layout"
+msgstr "Standard layout "
+
+#: library/admin/theme-options.php:320
+msgid "No Sidebar"
+msgstr "Ingen sidebar"
+
+#: library/admin/theme-options.php:324
+msgid "No Sidebar, Full Width"
+msgstr "Ingen sidebar, fuld bredde"
+
+#: library/admin/theme-options.php:332 library/widgets/attitude_widgets.php:18
+msgid "Left Sidebar"
+msgstr "Venstre sidebar"
+
+#: library/admin/theme-options.php:336 library/widgets/attitude_widgets.php:29
+msgid "Right Sidebar"
+msgstr "Højre sidebar"
+
+#: library/admin/theme-options.php:342
+msgid "Reset Layout"
+msgstr "Gendan layout"
+
+#: library/admin/theme-options.php:345
+msgid "Check to reset"
+msgstr "Marker for at nulstille"
+
+#: library/admin/theme-options.php:355
+msgid "Custom Background"
+msgstr "Brugerdefineret baggrund"
+
+#: library/admin/theme-options.php:361
+msgid "Need to replace default background?"
+msgstr "Brug for at skifte standard baggrund?"
+
+#: library/admin/theme-options.php:367
+msgid ""
+"Note: The custom background change will be reflected in the background if "
+"the site layout is set to be narrow layout instead of the wide layout."
+msgstr ""
+"Note: Den brugerdefinerede baggrunds ændring vil slå igennem i baggrunden, "
+"hvis hjemmeside layoutet er sat til at være smal frem for bredt layout"
+
+#: library/admin/theme-options.php:376
+msgid "Custom CSS"
+msgstr "Brugerdefineret CSS"
+
+#: library/admin/theme-options.php:381
+msgid "Enter your custom CSS styles."
+msgstr "Opgiv dine brugerdefinerede CSS styles."
+
+#: library/admin/theme-options.php:382
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Denne CSS vil overskrive CSS i style.css filen."
+
+#: library/admin/theme-options.php:390
+msgid "CSS Tutorial from W3Schools."
+msgstr "CSS Tutorial fra W3Schools."
+
+#: library/admin/theme-options.php:392
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: library/admin/theme-options.php:392
+msgid "CSS Tutorial"
+msgstr "CSS guide"
+
+#: library/admin/theme-options.php:392
+msgid "Click Here to Read"
+msgstr "Klik her for at  læse"
+
+#: library/admin/theme-options.php:407
+msgid "Home Slogan Options"
+msgstr "Forside slogan indstillinger"
+
+#: library/admin/theme-options.php:413
+msgid "Disable Slogan Part"
+msgstr "Deaktiver slogan part"
+
+#: library/admin/theme-options.php:419
+msgid "Slogan Position"
+msgstr "Slogan position"
+
+#: library/admin/theme-options.php:423
+msgid "Above Slider"
+msgstr "Over slider"
+
+#: library/admin/theme-options.php:427
+msgid "Below Slider"
+msgstr "Under slider"
+
+#: library/admin/theme-options.php:432
+msgid "Home Page Slogan1"
+msgstr "Forside slogan1"
+
+#: library/admin/theme-options.php:433 library/admin/theme-options.php:441
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "Den passende længde på sloganet er cirka 10 ord."
+
+#: library/admin/theme-options.php:440
+msgid "Home Page Slogan2"
+msgstr "Forside slogan2"
+
+#: library/admin/theme-options.php:448
+msgid "Redirect Button Text"
+msgstr "Omdiriger knap tekst"
+
+#: library/admin/theme-options.php:449
+msgid "Text to show in Button"
+msgstr "Tekst som vises i knap"
+
+#: library/admin/theme-options.php:455
+msgid "Redirect Button Link"
+msgstr "Omdiriger knap link"
+
+#: library/admin/theme-options.php:456
+msgid "Link this button to show your special work, portfolio"
+msgstr "Link denne knap for at vise dit særlige arbejde, portfolio"
+
+#: library/admin/theme-options.php:468
+msgid "Feed Redirect"
+msgstr "Feed omdiriger"
+
+#: library/admin/theme-options.php:474
+msgid "Feed Redirect URL"
+msgstr "Feed omdiriger URL"
+
+#: library/admin/theme-options.php:486
+msgid "Homepage / Frontpage Category Setting"
+msgstr "Hjemmeside / forside kategori indstilling"
+
+#: library/admin/theme-options.php:492
+msgid "Front page posts categories:"
+msgstr "Forside indlægs kategorier:"
+
+#: library/admin/theme-options.php:494
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+"Kun indlæg, der tilhører de her valgte kategorier, bliver vist på forsiden."
+
+#: library/admin/theme-options.php:499
+msgid "--Disabled--"
+msgstr "--Deaktiveret --"
+
+#: library/admin/theme-options.php:509
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "Du kan vælge flere kategorier ved at holde CTRL knappen nede."
+
+#: library/admin/theme-options.php:524
+msgid "Slider Options"
+msgstr "Slider indstillinger"
+
+#: library/admin/theme-options.php:528
+msgid "Disable Slider"
+msgstr "Deaktiver Slider"
+
+#: library/admin/theme-options.php:533
+msgid "Number of Slides"
+msgstr "Antal slides"
+
+#: library/admin/theme-options.php:538
+msgid "Transition Effect:"
+msgstr "Overgangs effekt"
+
+#: library/admin/theme-options.php:558 library/admin/theme-options.php:649
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: library/admin/theme-options.php:566
+msgid "Transition Delay"
+msgstr "Overgangs ventetid"
+
+#: library/admin/theme-options.php:569 library/admin/theme-options.php:576
+msgid "second(s)"
+msgstr "Sekunder(s)"
+
+#: library/admin/theme-options.php:573
+msgid "Transition Length"
+msgstr "Overgangslængde"
+
+#: library/admin/theme-options.php:585
+msgid "Featured Post/Page Slider Options"
+msgstr "Fremhævet indlæg / Side slider indstillinger"
+
+#: library/admin/theme-options.php:589
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Ekskluder Slider indlæg fra hjemmeside indlæg?"
+
+#: library/admin/theme-options.php:591
+msgid "Check to exclude"
+msgstr "Marker for at ekskludere"
+
+#: library/admin/theme-options.php:596
+msgid "Featured Slider Post/Page #"
+msgstr "Fremhævet Slider indlæg/side#"
+
+#: library/admin/theme-options.php:598
+msgid "Click Here To Edit"
+msgstr "Klik her for at redigere"
+
+#: library/admin/theme-options.php:604
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last "
+"column.)<br />* Featured Slider will show featured images, Title and excerpt "
+"of the respected added post's IDs."
+msgstr ""
+"<strong>I det følgende er trinene til hvordan man bruger den foretrukne "
+"slider.</strong><br />* Opret indlæg, Tilføj foretrukke billede til indlæget."
+"<br />* Tilføj alle de Indlægs ID du ønkser at benytte i den foretrukne "
+"slider. <br /> &nbsp;(Du kan nu se indlæggenes respektive ID i Alle indlægs "
+"tabellens sidste kolonne.)<br />* Foretrukne slider vil vise foretrukne "
+"billeder, Titel og uddrag af de respektivt tilføjede indlægs ID's."
+
+#: library/admin/theme-options.php:605
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+"<strong>Note:</strong> Du kan nu også tilføje side ID. (Du kan nu se "
+"Sidernes respektive ID i Alle sider tabellens sidste kolonne. ) ."
+
+#: library/admin/theme-options.php:617
+#: library/structure/header-extensions.php:324
+msgid "Facebook"
+msgstr "Facebook"
+
+#: library/admin/theme-options.php:618
+#: library/structure/header-extensions.php:325
+msgid "Twitter"
+msgstr "Twitter"
+
+#: library/admin/theme-options.php:619
+#: library/structure/header-extensions.php:326
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: library/admin/theme-options.php:620
+#: library/structure/header-extensions.php:327
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: library/admin/theme-options.php:621
+#: library/structure/header-extensions.php:328
+msgid "Youtube"
+msgstr "Youtube"
+
+#: library/admin/theme-options.php:622
+#: library/structure/header-extensions.php:329
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: library/admin/theme-options.php:623
+#: library/structure/header-extensions.php:330
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: library/admin/theme-options.php:624
+#: library/structure/header-extensions.php:331
+msgid "Flickr"
+msgstr "Flickr"
+
+#: library/admin/theme-options.php:625
+#: library/structure/header-extensions.php:332
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: library/admin/theme-options.php:626
+#: library/structure/header-extensions.php:333
+msgid "Myspace"
+msgstr "Myspace"
+
+#: library/admin/theme-options.php:627
+#: library/structure/header-extensions.php:334
+msgid "RSS"
+msgstr "RSS"
+
+#: library/admin/theme-options.php:667
+msgid "Analytics"
+msgstr "Analytics"
+
+#: library/admin/theme-options.php:672
+msgid "Code to display on Header"
+msgstr "kode der skal vises i header"
+
+#: library/admin/theme-options.php:678
+msgid "Note: Enter your custom header script."
+msgstr "Note: Indtast dit brugerdefinerede hearder script."
+
+#: library/admin/theme-options.php:681
+msgid "Code to display on Footer"
+msgstr "Kode der skal vises i Footer"
+
+#: library/admin/theme-options.php:688
+msgid "Note: Enter your custom footer script."
+msgstr "Note: Indtast dit brugerdefinerede script."
+
+#: library/functions/functions.php:347 library/functions/functions.php:361
+msgid "Navigation"
+msgstr "navigation"
+
+#: library/shortcodes/attitude-shortcodes.php:52
+msgid "WordPress"
+msgstr "WordPress"
+
+#: library/structure/content-extensions.php:147
+#: library/structure/content-extensions.php:308
+#: library/structure/content-extensions.php:464
+#: library/structure/content-extensions.php:577
+#: library/structure/content-extensions.php:692
+msgid "By"
+msgstr "Af"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "No Comments"
+msgstr "Ingen kommentarer"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "% Comments"
+msgstr "% Kommentarer"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "Comments Off"
+msgstr "Kommentarer er slået fra"
+
+#: library/structure/content-extensions.php:157
+#: library/structure/content-extensions.php:474
+#: library/structure/content-extensions.php:587
+#: library/structure/content-extensions.php:673
+#: library/widgets/attitude_widgets.php:242
+msgid "Read more"
+msgstr "Læs mere"
+
+#: library/structure/content-extensions.php:172
+#: library/structure/content-extensions.php:243
+#: library/structure/content-extensions.php:340
+#: library/structure/content-extensions.php:391
+#: library/structure/content-extensions.php:502
+#: library/structure/content-extensions.php:615
+#: library/structure/content-extensions.php:727
+#: library/structure/content-extensions.php:916
+msgid "No Posts Found."
+msgstr "Ingen indlæg fundet."
+
+#: library/structure/content-extensions.php:212
+#: library/structure/content-extensions.php:296
+#: library/structure/content-extensions.php:676
+#: library/structure/content-extensions.php:890
+msgid "Pages:"
+msgstr "Sider:"
+
+#: library/structure/content-extensions.php:282
+msgid ", "
+msgstr ","
+
+#: library/structure/content-extensions.php:288
+msgid "Tagged on: "
+msgstr "Tagget på:"
+
+#: library/structure/content-extensions.php:493
+#: library/structure/content-extensions.php:606
+#: library/structure/content-extensions.php:718
+#: library/structure/content-extensions.php:754
+msgid "&laquo; Previous"
+msgstr "&laquo; Tidligere"
+
+#: library/structure/content-extensions.php:494
+#: library/structure/content-extensions.php:607
+#: library/structure/content-extensions.php:719
+#: library/structure/content-extensions.php:755
+msgid "Next &raquo;"
+msgstr "Næste &raquo;"
+
+#: library/structure/content-extensions.php:774
+msgid "&larr; Previous"
+msgstr "&larr; Tidligere"
+
+#: library/structure/content-extensions.php:775
+msgid "Next &rarr;"
+msgstr "Næste &rarr;"
+
+#: library/structure/content-extensions.php:782
+msgid "&larr;"
+msgstr "&larr; "
+
+#: library/structure/content-extensions.php:783
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: library/structure/content-extensions.php:821
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: library/structure/content-extensions.php:821
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: library/structure/content-extensions.php:836
+msgid "Post author"
+msgstr "Indlægs forfatter"
+
+#: library/structure/content-extensions.php:842
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: library/structure/content-extensions.php:848
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar afventer godkendelse."
+
+#: library/structure/content-extensions.php:853
+msgid "Edit"
+msgstr "Rediger"
+
+#: library/structure/content-extensions.php:857
+msgid "Reply <span>&darr;</span>"
+msgstr "Svar <span>&darr;</span>"
+
+#: library/structure/content-extensions.php:939
+msgid "Error 404-Page NOT Found"
+msgstr "Error 404-Siden blev ikke fundet"
+
+#: library/structure/content-extensions.php:942
+msgid "It seems we can't find what you're looking for."
+msgstr "Det ser ud som om, at vi ikke kan finde det du leder efter. "
+
+#: library/structure/content-extensions.php:943
+msgid "This might be because:"
+msgstr "Det kan måske skyldes."
+
+#: library/structure/content-extensions.php:944
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Du har indtastet hjemmesieadressen forkert, eller siden du leder efter er "
+"blevet flyttet, opdateret eller slettet. "
+
+#: library/structure/content-extensions.php:945
+msgid "Please try the following instead:"
+msgstr "Prøv istedet følgende:"
+
+#: library/structure/content-extensions.php:946
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"Kontroller om du har stavet en URL forkert, og klik derefter på opdater "
+"kanppen i din browser."
+
+#: library/structure/footer-extensions.php:44
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: library/structure/footer-extensions.php:44
+msgid "Theme by:"
+msgstr "Tema af: "
+
+#: library/structure/footer-extensions.php:44
+msgid "Powered by:"
+msgstr "Drevet af:"
+
+#: library/structure/footer-extensions.php:67
+msgid "Back to Top"
+msgstr "Tilbage til toppen"
+
+#: library/structure/header-extensions.php:80
+#, php-format
+msgid "Page %s"
+msgstr "Side %s"
+
+#: library/structure/header-extensions.php:353
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s at %2$s"
+
+#: library/structure/header-extensions.php:505
+msgid "Page NOT Found"
+msgstr "Siden blev ikke fundet"
+
+#: library/structure/header-extensions.php:508
+msgid "Search Results"
+msgstr "Søgeresultater"
+
+#: library/structure/searchform-extensions.php:20
+#: library/structure/searchform-extensions.php:21
+msgid "Search"
+msgstr "Søg"
+
+#: library/widgets/attitude_widgets.php:20
+msgid "Shows widgets at Left side."
+msgstr "Vis widgets på den venstre side."
+
+#: library/widgets/attitude_widgets.php:31
+msgid "Shows widgets at Right side."
+msgstr "Vis widgets på den højre side"
+
+#: library/widgets/attitude_widgets.php:40
+msgid "Business Page Sidebar"
+msgstr "Forretnings side sidebar"
+
+#: library/widgets/attitude_widgets.php:42
+msgid ""
+"Shows widgets on Business Page Template. Sutiable widget: Theme Horse: "
+"Featured widget, Theme Horse: Testimonial, Theme Horse: Services"
+msgstr ""
+"Vis widgets på Business Side Skabelonen. Passende widget: Theme Horse: "
+"Featured widget, Theme Horse: Testimonial, Theme Horse: Services"
+
+#: library/widgets/attitude_widgets.php:51
+msgid "Contact Page Sidebar"
+msgstr "Kontaktside sidebar"
+
+#: library/widgets/attitude_widgets.php:53
+msgid "Shows widgets on Contact Page Template."
+msgstr "Vis widgets på kontaktsidens skabelon"
+
+#: library/widgets/attitude_widgets.php:62
+msgid "Footer Sidebar"
+msgstr "Footer sidebar"
+
+#: library/widgets/attitude_widgets.php:64
+msgid "Shows widgets at footer."
+msgstr "Vis widgetter ved footeren"
+
+#: library/widgets/attitude_widgets.php:91
+msgid "Displays Custom Tag Cloud"
+msgstr "Vis brugerdefineret Tag Cloud"
+
+#: library/widgets/attitude_widgets.php:93
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Theme Horse: Brugerdefineret Tag Cloud"
+
+#: library/widgets/attitude_widgets.php:145
+#: library/widgets/attitude_widgets.php:286
+#: library/widgets/attitude_widgets.php:417
+msgid "Title:"
+msgstr "Titel:"
+
+#: library/widgets/attitude_widgets.php:159
+msgid "Display Services( Business Layout )"
+msgstr "Vis tjenester( Business layout )"
+
+#: library/widgets/attitude_widgets.php:161
+msgid "Theme Horse: Services"
+msgstr "Theme Horse: Services"
+
+#: library/widgets/attitude_widgets.php:177
+#: library/widgets/attitude_widgets.php:295
+msgid "Page"
+msgstr "Side"
+
+#: library/widgets/attitude_widgets.php:263
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr ""
+"Brug denne widget til at vise nyt arbejde, portfolio eller de sider du "
+"ønsker ( Business Layout )"
+
+#: library/widgets/attitude_widgets.php:265
+msgid "Theme Horse: Featured Widget"
+msgstr "Theme Horse: Featured Widget"
+
+#: library/widgets/attitude_widgets.php:289
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: library/widgets/attitude_widgets.php:373
+msgid "Display Testimonial( Business Layout )"
+msgstr "Vis testimonial (Business layout)"
+
+#: library/widgets/attitude_widgets.php:375
+msgid "Theme Horse: Testimonial"
+msgstr "Theme Horse: Testimonial"
+
+#: library/widgets/attitude_widgets.php:419
+msgid "Testimonial Description"
+msgstr "Testimonial beskrivelse"
+
+#: library/widgets/attitude_widgets.php:422
+msgid "Name:"
+msgstr "Navn:"
+
+#: library/widgets/attitude_widgets.php:425
+msgid "Byline:"
+msgstr "Skrevet af:"

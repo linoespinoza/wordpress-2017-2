@@ -1,0 +1,880 @@
+# Attitude WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Attitude Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Attitude\n"
+"POT-Creation-Date: 2013-06-12 13:02+0545\n"
+"PO-Revision-Date: 2013-06-25 01:56+0800\n"
+"Last-Translator: FreedomKnight <j26733514@gmail.com>\n"
+"Language-Team: Team Horse <support@themehorse.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "有人認為「%2$s」"
+
+#: comments.php:35
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s 認為「%2$s」"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "迴響導覽列"
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; 舊迴響"
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "新迴響&rarr"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "迴響已關閉"
+
+#: functions.php:129
+msgid "Primary Menu"
+msgstr "主選單"
+
+#: library/admin/attitude-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr ""
+"選擇版面形式給特定的頁面（注意：該設定只有在樣板設為預設樣板或網誌類型的樣板"
+"才會顯示）"
+
+#: library/admin/attitude-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "選擇頁面形式給該文章"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "預設頁面形式設定"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Theme Settings"
+msgstr "佈景主題設定"
+
+#: library/admin/attitude-metaboxes.php:44
+msgid "No sidebar"
+msgstr "無邊欄"
+
+#: library/admin/attitude-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "無邊欄，佔用全部寬度"
+
+#: library/admin/attitude-metaboxes.php:56 library/admin/theme-options.php:328
+msgid "No Sidebar, One Column"
+msgstr "沒有邊欄，一個欄位"
+
+#: library/admin/attitude-metaboxes.php:62
+msgid "Left sidebar"
+msgstr "左邊欄"
+
+#: library/admin/attitude-metaboxes.php:68
+msgid "Right sidebar"
+msgstr "右邊攔"
+
+#: library/admin/theme-options.php:95 library/admin/theme-options.php:96
+msgid "Theme Options"
+msgstr "佈景主題選項"
+
+#: library/admin/theme-options.php:125
+msgid "Theme Options by"
+msgstr "佈景主題選項提供自"
+
+#: library/admin/theme-options.php:125
+msgid "http://themehorse.com/"
+msgstr "http://themehorse.com/"
+
+#: library/admin/theme-options.php:125
+#: library/shortcodes/attitude-shortcodes.php:61
+msgid "Theme Horse"
+msgstr "Theme Horse"
+
+#: library/admin/theme-options.php:127
+msgid "Confused about something? See"
+msgstr "對某些事情有疑問嗎？請見"
+
+#: library/admin/theme-options.php:128
+msgid "Attitude Theme Instructions"
+msgstr "Attitude 佈景主題說明"
+
+#: library/admin/theme-options.php:128
+msgid "Theme Instructions"
+msgstr "佈景主題說明"
+
+#: library/admin/theme-options.php:129
+msgid "Support Forum"
+msgstr "支援論壇"
+
+#: library/admin/theme-options.php:130
+msgid "Attitude Demo"
+msgstr "Attitude 範本"
+
+#: library/admin/theme-options.php:130
+msgid "View Demo"
+msgstr "檢視範本"
+
+#: library/admin/theme-options.php:134
+msgid "Want to add bunch of additional features? Upgrade to Pro version!"
+msgstr "想要增加更多額外的功能？升級到專業版吧！"
+
+#: library/admin/theme-options.php:135
+msgid "Upgrade to Pro"
+msgstr "升級至專業版"
+
+#: library/admin/theme-options.php:136
+msgid "Donate"
+msgstr "捐贈"
+
+#: library/admin/theme-options.php:137
+msgid "Review Clean Retina"
+msgstr "回顧 Clean Retina"
+
+#: library/admin/theme-options.php:137
+msgid "Rate Attitude"
+msgstr "為 Attitude 評分"
+
+#: library/admin/theme-options.php:154
+msgid "Settings saved."
+msgstr "設定已儲存"
+
+#: library/admin/theme-options.php:160
+msgid "Design Options"
+msgstr "設計選項"
+
+#: library/admin/theme-options.php:161
+msgid "Advance Options"
+msgstr "進階選項"
+
+#: library/admin/theme-options.php:162
+msgid "Featured Post/Page Slider"
+msgstr "精選文章/頁面投影片"
+
+#: library/admin/theme-options.php:163
+msgid "Social Links"
+msgstr "社交連結"
+
+#: library/admin/theme-options.php:164
+msgid "Webmaster Tools"
+msgstr "站長工具"
+
+#: library/admin/theme-options.php:170
+msgid "Custom Header"
+msgstr "自訂頁首"
+
+#: library/admin/theme-options.php:175 library/admin/theme-options.php:185
+msgid "Header Logo"
+msgstr "頁首 logo"
+
+#: library/admin/theme-options.php:178
+msgid "Change Header Logo"
+msgstr "變更頁首 Logo"
+
+#: library/admin/theme-options.php:182 library/admin/theme-options.php:239
+#: library/admin/theme-options.php:270
+msgid "Preview"
+msgstr "預覽"
+
+#: library/admin/theme-options.php:190
+msgid "Show"
+msgstr "顯示"
+
+#: library/admin/theme-options.php:193
+msgid "Header Logo Only"
+msgstr "只用頁首 Logo"
+
+#: library/admin/theme-options.php:196
+msgid "Header Text Only"
+msgstr "只用頁首文字"
+
+#: library/admin/theme-options.php:199
+msgid "Disable"
+msgstr "停用"
+
+#: library/admin/theme-options.php:204
+msgid "Need to replace Header Image?"
+msgstr "需要替換頁首圖案？"
+
+#: library/admin/theme-options.php:207 library/admin/theme-options.php:364
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">點這</a>"
+
+#: library/admin/theme-options.php:211
+msgid "Hide Searchform from Header"
+msgstr "從頁首隱藏搜尋表單"
+
+#: library/admin/theme-options.php:213
+msgid "Check to hide"
+msgstr "勾選以隱藏"
+
+#: library/admin/theme-options.php:217 library/admin/theme-options.php:248
+#: library/admin/theme-options.php:279 library/admin/theme-options.php:306
+#: library/admin/theme-options.php:350 library/admin/theme-options.php:397
+#: library/admin/theme-options.php:463 library/admin/theme-options.php:481
+#: library/admin/theme-options.php:514 library/admin/theme-options.php:580
+#: library/admin/theme-options.php:606 library/admin/theme-options.php:644
+#: library/admin/theme-options.php:675 library/admin/theme-options.php:705
+msgid "Save All Changes"
+msgstr "儲存所有變更"
+
+#: library/admin/theme-options.php:222
+msgid "Fav Icon Options"
+msgstr "Fav Icon選項"
+
+#: library/admin/theme-options.php:227
+msgid "Disable Favicon"
+msgstr "停用 Favicon"
+
+#: library/admin/theme-options.php:229 library/admin/theme-options.php:260
+#: library/admin/theme-options.php:416 library/admin/theme-options.php:530
+msgid "Check to disable"
+msgstr "勾選以停用"
+
+#: library/admin/theme-options.php:232
+msgid "Fav Icon URL"
+msgstr "Fav Icon URL"
+
+#: library/admin/theme-options.php:235
+msgid "Change Fav Icon"
+msgstr "變更 Fav Icon"
+
+#: library/admin/theme-options.php:242
+msgid "favicon"
+msgstr "favicon"
+
+#: library/admin/theme-options.php:253
+msgid "Web Clip Icon Options"
+msgstr "網頁迴紋針選項"
+
+#: library/admin/theme-options.php:258
+msgid "Disable Web Clip Icon"
+msgstr "停用網頁迴紋針圖示"
+
+#: library/admin/theme-options.php:263
+msgid "Web Clip Icon URL"
+msgstr "網頁迴紋針 URL"
+
+#: library/admin/theme-options.php:266
+msgid "Change Web Clip Icon"
+msgstr "變更網頁迴紋針圖示"
+
+#: library/admin/theme-options.php:273
+msgid "webpage icon"
+msgstr "網頁圖示"
+
+#: library/admin/theme-options.php:284
+msgid "Site Layout Options"
+msgstr "網站版面形式選項"
+
+#: library/admin/theme-options.php:289
+msgid "Site Layout"
+msgstr "網站版面形式"
+
+#: library/admin/theme-options.php:290
+msgid "This change is reflected in whole website"
+msgstr "這個改變會影響所有網頁"
+
+#: library/admin/theme-options.php:295
+msgid "Narrow Layout"
+msgstr "窄版形式"
+
+#: library/admin/theme-options.php:300
+msgid "Wide Layout"
+msgstr "寬版形式"
+
+#: library/admin/theme-options.php:311
+msgid "Default Layout Options"
+msgstr "預設版面形式選項"
+
+#: library/admin/theme-options.php:316
+msgid "Default Layout"
+msgstr "預設版面形式"
+
+#: library/admin/theme-options.php:320
+msgid "No Sidebar"
+msgstr "無邊欄"
+
+#: library/admin/theme-options.php:324
+msgid "No Sidebar, Full Width"
+msgstr "無邊欄，佔全寬"
+
+#: library/admin/theme-options.php:332 library/widgets/attitude_widgets.php:18
+msgid "Left Sidebar"
+msgstr "左邊欄"
+
+#: library/admin/theme-options.php:336 library/widgets/attitude_widgets.php:29
+msgid "Right Sidebar"
+msgstr "右邊攔"
+
+#: library/admin/theme-options.php:342
+msgid "Reset Layout"
+msgstr "重設版面形式"
+
+#: library/admin/theme-options.php:345
+msgid "Check to reset"
+msgstr "勾選以重設"
+
+#: library/admin/theme-options.php:355
+msgid "Custom Background"
+msgstr "自訂背景"
+
+#: library/admin/theme-options.php:361
+msgid "Need to replace default background?"
+msgstr "需要取代預設背景？"
+
+#: library/admin/theme-options.php:367
+msgid ""
+"Note: The custom background change will be reflected in the background if "
+"the site layout is set to be narrow layout instead of the wide layout."
+msgstr "提醒：改變自訂背景將會影響所有的窄版形式而非寬版形式"
+
+#: library/admin/theme-options.php:376
+msgid "Custom CSS"
+msgstr "自訂 CSS"
+
+#: library/admin/theme-options.php:381
+msgid "Enter your custom CSS styles."
+msgstr "輸入你的自訂 CSS styles 。"
+
+#: library/admin/theme-options.php:382
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "該 CSS 將會覆蓋 style.css 檔案中的 CSS 。"
+
+#: library/admin/theme-options.php:390
+msgid "CSS Tutorial from W3Schools."
+msgstr "W3Schools 的 CSS 教學。"
+
+#: library/admin/theme-options.php:392
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: library/admin/theme-options.php:392
+msgid "CSS Tutorial"
+msgstr "CSS 教學"
+
+#: library/admin/theme-options.php:392
+msgid "Click Here to Read"
+msgstr "點擊以閱讀"
+
+#: library/admin/theme-options.php:407
+msgid "Home Slogan Options"
+msgstr "首頁標語選項"
+
+#: library/admin/theme-options.php:413
+msgid "Disable Slogan Part"
+msgstr "停用首頁標語"
+
+#: library/admin/theme-options.php:419
+msgid "Slogan Position"
+msgstr "標語位置"
+
+#: library/admin/theme-options.php:423
+msgid "Above Slider"
+msgstr "在投影片之前"
+
+#: library/admin/theme-options.php:427
+msgid "Below Slider"
+msgstr "在投影片之後"
+
+#: library/admin/theme-options.php:432
+msgid "Home Page Slogan1"
+msgstr "首頁標語 1"
+
+#: library/admin/theme-options.php:433 library/admin/theme-options.php:441
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "標語的合適長度大約為 10 個字左右"
+
+#: library/admin/theme-options.php:440
+msgid "Home Page Slogan2"
+msgstr "首頁標語 2"
+
+#: library/admin/theme-options.php:448
+msgid "Redirect Button Text"
+msgstr "重導向按鈕文字"
+
+#: library/admin/theme-options.php:449
+msgid "Text to show in Button"
+msgstr "在按鈕中顯示的文字"
+
+#: library/admin/theme-options.php:455
+msgid "Redirect Button Link"
+msgstr "重導向按鈕連結"
+
+#: library/admin/theme-options.php:456
+msgid "Link this button to show your special work, portfolio"
+msgstr "連結按鈕秀出你特別的作品、資料夾"
+
+#: library/admin/theme-options.php:468
+msgid "Feed Redirect"
+msgstr "Feed 重新導向"
+
+#: library/admin/theme-options.php:474
+msgid "Feed Redirect URL"
+msgstr "Feed 重導向的 URL"
+
+#: library/admin/theme-options.php:486
+msgid "Homepage / Frontpage Category Setting"
+msgstr "首頁/頭版分類設定"
+
+#: library/admin/theme-options.php:492
+msgid "Front page posts categories:"
+msgstr "頭版文章分類："
+
+#: library/admin/theme-options.php:494
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr "只有屬於被選擇的分類文章會被顯示在頭版。"
+
+#: library/admin/theme-options.php:499
+msgid "--Disabled--"
+msgstr "--停用--"
+
+#: library/admin/theme-options.php:509
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "你可以按著 ctrl 選擇多個分類。"
+
+#: library/admin/theme-options.php:524
+msgid "Slider Options"
+msgstr "投影片選項"
+
+#: library/admin/theme-options.php:528
+msgid "Disable Slider"
+msgstr "停用投影片"
+
+#: library/admin/theme-options.php:533
+msgid "Number of Slides"
+msgstr "投影片數量"
+
+#: library/admin/theme-options.php:538
+msgid "Transition Effect:"
+msgstr "轉場效果："
+
+#: library/admin/theme-options.php:558 library/admin/theme-options.php:635
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: library/admin/theme-options.php:566
+msgid "Transition Delay"
+msgstr "轉場延遲"
+
+#: library/admin/theme-options.php:569 library/admin/theme-options.php:576
+msgid "second(s)"
+msgstr "秒"
+
+#: library/admin/theme-options.php:573
+msgid "Transition Length"
+msgstr "轉場長度"
+
+#: library/admin/theme-options.php:585
+msgid "Featured Post/Page Slider Options"
+msgstr "精選文章/頁面投影片選項"
+
+#: library/admin/theme-options.php:589
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "從首頁中停用投影片文章？"
+
+#: library/admin/theme-options.php:591
+msgid "Check to exclude"
+msgstr "勾選以停用"
+
+#: library/admin/theme-options.php:596
+msgid "Featured Slider Post/Page #"
+msgstr "精選投影片文章/頁面 #"
+
+#: library/admin/theme-options.php:598
+msgid "Click Here To Edit"
+msgstr "點這編輯"
+
+#: library/admin/theme-options.php:604
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last "
+"column.)<br />* Featured Slider will show featured images, Title and excerpt "
+"of the respected added post's IDs."
+msgstr ""
+"<strong>接下來是如何使用精選同影片的步驟。</strong><br />* 新增一篇文章，加入"
+"圖片到該文章<br />* 加入所有你想放到精選投影片的文章 ID <br /> &nbsp;（你現在"
+"可以看到文章 ID 個別在文章表格的最後一個欄位）<br />* 精選投影片將會顯示你加"
+"的文章 ID 中的圖片、標題、摘要。"
+
+#: library/admin/theme-options.php:605
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+"<strong>提醒：</strong> 你也可以現在加入文章 ID （你現在可以看到文章 ID 個別"
+"在文章表格的最後一個欄位）"
+
+#: library/admin/theme-options.php:652
+msgid "Site Verification"
+msgstr "網站驗證"
+
+#: library/admin/theme-options.php:657
+msgid "Google Site Verification ID"
+msgstr "Google 網站驗證 ID"
+
+#: library/admin/theme-options.php:658
+msgid "Enter your Google ID number only"
+msgstr "整能輸入你的 Google ID 號碼"
+
+#: library/admin/theme-options.php:663
+msgid "Yahoo Site Verification ID"
+msgstr "Yahoo 網站驗證 ID"
+
+#: library/admin/theme-options.php:664
+msgid "Enter your Yahoo ID number only"
+msgstr "只能輸入你的 Yahoo ID 號碼"
+
+#: library/admin/theme-options.php:669
+msgid "Bing Site Verification ID"
+msgstr "Bing 網站驗證 ID"
+
+#: library/admin/theme-options.php:670
+msgid "Enter your Bing ID number only"
+msgstr "只能輸入你的 Bing ID 號碼"
+
+#: library/admin/theme-options.php:680
+msgid "Analytics"
+msgstr "分析"
+
+#: library/admin/theme-options.php:685
+msgid "Code to display on Header"
+msgstr "顯示在頁首的程式碼"
+
+#: library/admin/theme-options.php:691
+msgid "Note: Enter your custom header script."
+msgstr "提醒：輸入你自訂的頁首腳本"
+
+#: library/admin/theme-options.php:694
+msgid "Code to display on Footer"
+msgstr "顯示在頁尾的程式碼"
+
+#: library/admin/theme-options.php:701
+msgid "Note: Enter your custom footer script."
+msgstr "提醒：輸入你自訂的頁尾腳本"
+
+#: library/functions/functions.php:362 library/functions/functions.php:376
+msgid "Navigation"
+msgstr "導覽列"
+
+#: library/shortcodes/attitude-shortcodes.php:52
+msgid "WordPress"
+msgstr "WordPress"
+
+#: library/structure/content-extensions.php:147
+#: library/structure/content-extensions.php:308
+#: library/structure/content-extensions.php:464
+#: library/structure/content-extensions.php:577
+#: library/structure/content-extensions.php:692
+msgid "By"
+msgstr "由"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "No Comments"
+msgstr "沒有迴響"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "1 Comment"
+msgstr "1 個迴響"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "% Comments"
+msgstr "% 迴響"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "Comments Off"
+msgstr "關閉迴響"
+
+#: library/structure/content-extensions.php:157
+#: library/structure/content-extensions.php:474
+#: library/structure/content-extensions.php:587
+#: library/structure/content-extensions.php:673
+#: library/widgets/attitude_widgets.php:242
+msgid "Read more"
+msgstr "繼續閱讀"
+
+#: library/structure/content-extensions.php:172
+#: library/structure/content-extensions.php:243
+#: library/structure/content-extensions.php:340
+#: library/structure/content-extensions.php:391
+#: library/structure/content-extensions.php:502
+#: library/structure/content-extensions.php:615
+#: library/structure/content-extensions.php:727
+#: library/structure/content-extensions.php:916
+msgid "No Posts Found."
+msgstr "找不到文章。"
+
+#: library/structure/content-extensions.php:212
+#: library/structure/content-extensions.php:296
+#: library/structure/content-extensions.php:676
+#: library/structure/content-extensions.php:890
+msgid "Pages:"
+msgstr "頁面："
+
+#: library/structure/content-extensions.php:282
+msgid ", "
+msgstr "，"
+
+#: library/structure/content-extensions.php:288
+msgid "Tagged on: "
+msgstr "標籤："
+
+#: library/structure/content-extensions.php:493
+#: library/structure/content-extensions.php:606
+#: library/structure/content-extensions.php:718
+#: library/structure/content-extensions.php:754
+msgid "&laquo; Previous"
+msgstr "&laquo; 前一個"
+
+#: library/structure/content-extensions.php:494
+#: library/structure/content-extensions.php:607
+#: library/structure/content-extensions.php:719
+#: library/structure/content-extensions.php:755
+msgid "Next &raquo;"
+msgstr "下一個 &raquo;"
+
+#: library/structure/content-extensions.php:774
+msgid "&larr; Previous"
+msgstr "&larr; 前一個"
+
+#: library/structure/content-extensions.php:775
+msgid "Next &rarr;"
+msgstr "下一個 &rarr;"
+
+#: library/structure/content-extensions.php:782
+msgid "&larr;"
+msgstr "「"
+
+#: library/structure/content-extensions.php:783
+msgid "&rarr;"
+msgstr "」"
+
+#: library/structure/content-extensions.php:821
+msgid "Pingback:"
+msgstr "通告："
+
+#: library/structure/content-extensions.php:821
+msgid "(Edit)"
+msgstr "（編輯）"
+
+#: library/structure/content-extensions.php:836
+msgid "Post author"
+msgstr "文章作者"
+
+#: library/structure/content-extensions.php:842
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: library/structure/content-extensions.php:848
+msgid "Your comment is awaiting moderation."
+msgstr "你的迴響正等待審核"
+
+#: library/structure/content-extensions.php:853
+msgid "Edit"
+msgstr "編輯"
+
+#: library/structure/content-extensions.php:857
+msgid "Reply <span>&darr;</span>"
+msgstr "回覆<span>&darr;</span>"
+
+#: library/structure/content-extensions.php:939
+msgid "Error 404-Page NOT Found"
+msgstr "錯誤 404 頁面 找不到"
+
+#: library/structure/content-extensions.php:942
+msgid "It seems we can't find what you're looking for."
+msgstr "看起來我們找不到你想找的。"
+
+#: library/structure/content-extensions.php:943
+msgid "This might be because:"
+msgstr "這可能是因為："
+
+#: library/structure/content-extensions.php:944
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr "你輸入的網頁位址錯誤或者你尋找的頁面已經被移動、更新或刪除。"
+
+#: library/structure/content-extensions.php:945
+msgid "Please try the following instead:"
+msgstr "請改為嘗試："
+
+#: library/structure/content-extensions.php:946
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr "檢查你打錯的 URL ，然後按下瀏覽器上的重新整理按鈕"
+
+#: library/structure/footer-extensions.php:44
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: library/structure/footer-extensions.php:44
+msgid "Theme by:"
+msgstr "Theme by:"
+
+#: library/structure/footer-extensions.php:44
+msgid "Powered by:"
+msgstr "Powered by:"
+
+#: library/structure/footer-extensions.php:67
+msgid "Back to Top"
+msgstr "回到頂端"
+
+#: library/structure/header-extensions.php:80
+#, php-format
+msgid "Page %s"
+msgstr "頁面 %s"
+
+#: library/structure/header-extensions.php:339
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: library/structure/header-extensions.php:490
+msgid "Page NOT Found"
+msgstr "找不到該頁面"
+
+#: library/structure/header-extensions.php:493
+msgid "Search Results"
+msgstr "搜尋結果"
+
+#: library/structure/searchform-extensions.php:20
+#: library/structure/searchform-extensions.php:21
+msgid "Search"
+msgstr "搜尋"
+
+#: library/widgets/attitude_widgets.php:20
+msgid "Shows widgets at Left side."
+msgstr "顯示左邊的小工具"
+
+#: library/widgets/attitude_widgets.php:31
+msgid "Shows widgets at Right side."
+msgstr "顯示右邊的小工具"
+
+#: library/widgets/attitude_widgets.php:40
+msgid "Business Page Sidebar"
+msgstr "商用頁面邊欄"
+
+#: library/widgets/attitude_widgets.php:42
+msgid ""
+"Shows widgets on Business Page Template. Sutiable widget: Theme Horse: "
+"Featured widget, Theme Horse: Testimonial, Theme Horse: Services"
+msgstr ""
+"顯示商用頁面樣板小工具。合適小工具：Theme Horse: 精選小工具， Theme Horse: 推"
+"薦， Theme：服務"
+
+#: library/widgets/attitude_widgets.php:51
+msgid "Contact Page Sidebar"
+msgstr "聯絡頁面邊欄"
+
+#: library/widgets/attitude_widgets.php:53
+msgid "Shows widgets on Contact Page Template."
+msgstr "顯示聯絡頁面樣板小工具。"
+
+#: library/widgets/attitude_widgets.php:62
+msgid "Footer Sidebar"
+msgstr "頁尾邊欄"
+
+#: library/widgets/attitude_widgets.php:64
+msgid "Shows widgets at footer."
+msgstr "顯示頁尾小工具。"
+
+#: library/widgets/attitude_widgets.php:91
+msgid "Displays Custom Tag Cloud"
+msgstr "顯示自訂標籤雲"
+
+#: library/widgets/attitude_widgets.php:93
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Theme Horse: 自訂標籤雲"
+
+#: library/widgets/attitude_widgets.php:145
+#: library/widgets/attitude_widgets.php:286
+#: library/widgets/attitude_widgets.php:417
+msgid "Title:"
+msgstr "標題："
+
+#: library/widgets/attitude_widgets.php:159
+msgid "Display Services( Business Layout )"
+msgstr "顯示服務（商用版面形式）"
+
+#: library/widgets/attitude_widgets.php:161
+msgid "Theme Horse: Services"
+msgstr "Theme Horse: 服務"
+
+#: library/widgets/attitude_widgets.php:177
+#: library/widgets/attitude_widgets.php:295
+msgid "Page"
+msgstr "頁面"
+
+#: library/widgets/attitude_widgets.php:263
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr "使用這個小工具顯示目前工作、組合，或者任何你希望的頁面（企業版面形式）"
+
+#: library/widgets/attitude_widgets.php:265
+msgid "Theme Horse: Featured Widget"
+msgstr "Theme Horse: 精選小工具"
+
+#: library/widgets/attitude_widgets.php:289
+msgid "Description"
+msgstr "簡述"
+
+#: library/widgets/attitude_widgets.php:373
+msgid "Display Testimonial( Business Layout )"
+msgstr "顯示推薦（商用版面形式）"
+
+#: library/widgets/attitude_widgets.php:375
+msgid "Theme Horse: Testimonial"
+msgstr "Theme Hors: 推薦"
+
+#: library/widgets/attitude_widgets.php:419
+msgid "Testimonial Description"
+msgstr "推薦簡述"
+
+#: library/widgets/attitude_widgets.php:422
+msgid "Name:"
+msgstr "名字："
+
+#: library/widgets/attitude_widgets.php:425
+msgid "Byline:"
+msgstr "屬名："

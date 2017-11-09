@@ -1,0 +1,924 @@
+# Attitude WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Attitude Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Attitude\n"
+"POT-Creation-Date: 2013-07-18 15:25+0545\n"
+"PO-Revision-Date: 2013-10-08 10:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: Team Horse <support@themehorse.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Navigatie Reacties"
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere Reacties"
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Recente Reacties &rarr;"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Geen reacties mogelijk"
+
+#: functions.php:129
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#: library/admin/attitude-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr ""
+"Selecteer de layout voor alleen deze Pagina (Opmerking: deze instelling "
+"geldt alleen als de pagina Template ingesteld is als Default "
+"(oorspronkelijk) en Blog Type Templates.)"
+
+#: library/admin/attitude-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Selecteer layout voor alleen dit bericht"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Oorspronkelijke Layout ingesteld in"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Theme Settings"
+msgstr "Thema instellingen"
+
+#: library/admin/attitude-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Geen sidebar"
+
+#: library/admin/attitude-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "Geen sidebar, volledige breedte"
+
+#: library/admin/attitude-metaboxes.php:56 library/admin/theme-options.php:328
+msgid "No Sidebar, One Column"
+msgstr "Geen sidebar, een kolom"
+
+#: library/admin/attitude-metaboxes.php:62
+msgid "Left sidebar"
+msgstr "Sidebar links"
+
+#: library/admin/attitude-metaboxes.php:68
+msgid "Right sidebar"
+msgstr "Sidebar rechts"
+
+#: library/admin/theme-options.php:95 library/admin/theme-options.php:96
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: library/admin/theme-options.php:125
+msgid "Theme Options by"
+msgstr "Thema opties door"
+
+#: library/admin/theme-options.php:125
+msgid "http://themehorse.com/"
+msgstr ""
+
+#: library/admin/theme-options.php:125
+#: library/shortcodes/attitude-shortcodes.php:61
+msgid "Theme Horse"
+msgstr ""
+
+#: library/admin/theme-options.php:127
+msgid "Confused about something? See"
+msgstr "Te ingewikkeld? Zie"
+
+#: library/admin/theme-options.php:128
+msgid "Attitude Theme Instructions"
+msgstr "Attitude Thema Instructies"
+
+#: library/admin/theme-options.php:128
+msgid "Theme Instructions"
+msgstr "Thema Intstructies"
+
+#: library/admin/theme-options.php:129
+msgid "Support Forum"
+msgstr "Help Forum"
+
+#: library/admin/theme-options.php:130
+msgid "Attitude Demo"
+msgstr ""
+
+#: library/admin/theme-options.php:130
+msgid "View Demo"
+msgstr "Bekijk Demo"
+
+#: library/admin/theme-options.php:134
+msgid "Want to add bunch of additional features? Upgrade to Pro version!"
+msgstr "Extra features toevoegen? Upgrade naar de Pro versie!"
+
+#: library/admin/theme-options.php:135
+msgid "Upgrade to Pro"
+msgstr "Upgrade naar Pro"
+
+#: library/admin/theme-options.php:136
+msgid "Donate"
+msgstr "Doneer"
+
+#: library/admin/theme-options.php:137
+msgid "Review Clean Retina"
+msgstr "Recenseer Clean Retina"
+
+#: library/admin/theme-options.php:137
+msgid "Rate Attitude"
+msgstr "Rangschik Attitude"
+
+#: library/admin/theme-options.php:154
+msgid "Settings saved."
+msgstr "Instellingen bewaard."
+
+#: library/admin/theme-options.php:160
+msgid "Design Options"
+msgstr "Ontwerp Opties"
+
+#: library/admin/theme-options.php:161
+msgid "Advance Options"
+msgstr "Geavanceerde Opties"
+
+#: library/admin/theme-options.php:162
+msgid "Featured Post/Page Slider"
+msgstr "Featured Post/Diavoorstelling"
+
+#: library/admin/theme-options.php:163
+msgid "Social Links"
+msgstr "Social Links"
+
+#: library/admin/theme-options.php:164
+msgid "Webmaster Tools"
+msgstr "Webmaster Gereedschap"
+
+#: library/admin/theme-options.php:170
+msgid "Custom Header"
+msgstr "Aangepaste Header"
+
+#: library/admin/theme-options.php:175 library/admin/theme-options.php:185
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#: library/admin/theme-options.php:178
+msgid "Change Header Logo"
+msgstr "Pas Header Logo aan"
+
+#: library/admin/theme-options.php:182 library/admin/theme-options.php:239
+#: library/admin/theme-options.php:270
+msgid "Preview"
+msgstr "Preview"
+
+#: library/admin/theme-options.php:190
+msgid "Show"
+msgstr "Show"
+
+#: library/admin/theme-options.php:193
+msgid "Header Logo Only"
+msgstr "Alleen Header Logo"
+
+#: library/admin/theme-options.php:196
+msgid "Header Text Only"
+msgstr "Alleen Header tekst"
+
+#: library/admin/theme-options.php:199
+msgid "Disable"
+msgstr "Zet uit"
+
+#: library/admin/theme-options.php:204
+msgid "Need to replace Header Image?"
+msgstr "Header afbeelding vervangen?"
+
+#: library/admin/theme-options.php:207 library/admin/theme-options.php:364
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Klik hier</a>"
+
+#: library/admin/theme-options.php:211
+msgid "Hide Searchform from Header"
+msgstr "Verberg zoekformulier in Header"
+
+#: library/admin/theme-options.php:213
+msgid "Check to hide"
+msgstr "Klik aan om te verbergen"
+
+#: library/admin/theme-options.php:217 library/admin/theme-options.php:248
+#: library/admin/theme-options.php:279 library/admin/theme-options.php:306
+#: library/admin/theme-options.php:350 library/admin/theme-options.php:397
+#: library/admin/theme-options.php:463 library/admin/theme-options.php:481
+#: library/admin/theme-options.php:514 library/admin/theme-options.php:580
+#: library/admin/theme-options.php:606 library/admin/theme-options.php:659
+#: library/admin/theme-options.php:692
+msgid "Save All Changes"
+msgstr "Bewaar alle wijzigingen"
+
+#: library/admin/theme-options.php:222
+msgid "Fav Icon Options"
+msgstr "Favoriete Icon Opties"
+
+#: library/admin/theme-options.php:227
+msgid "Disable Favicon"
+msgstr "Zet Favicon uit"
+
+#: library/admin/theme-options.php:229 library/admin/theme-options.php:260
+#: library/admin/theme-options.php:416 library/admin/theme-options.php:530
+msgid "Check to disable"
+msgstr "Klik om uit te zetten"
+
+#: library/admin/theme-options.php:232
+msgid "Fav Icon URL"
+msgstr "Fav Icon URL"
+
+#: library/admin/theme-options.php:235
+msgid "Change Fav Icon"
+msgstr "Wijzige Fav Icon"
+
+#: library/admin/theme-options.php:242
+msgid "favicon"
+msgstr "favicon"
+
+#: library/admin/theme-options.php:253
+msgid "Web Clip Icon Options"
+msgstr "Web Clip Icon Opties"
+
+#: library/admin/theme-options.php:258
+msgid "Disable Web Clip Icon"
+msgstr "Zet Web Clip Icon uit"
+
+#: library/admin/theme-options.php:263
+msgid "Web Clip Icon URL"
+msgstr "Web Clip Icon URL"
+
+#: library/admin/theme-options.php:266
+msgid "Change Web Clip Icon"
+msgstr "Wijzig Web Clip Icon"
+
+#: library/admin/theme-options.php:273
+msgid "webpage icon"
+msgstr "webpagina icon"
+
+#: library/admin/theme-options.php:284
+msgid "Site Layout Options"
+msgstr "Site Layout Opties"
+
+#: library/admin/theme-options.php:289
+msgid "Site Layout"
+msgstr "Site Layout"
+
+#: library/admin/theme-options.php:290
+msgid "This change is reflected in whole website"
+msgstr "Deze wijziging geldt voor de hele website"
+
+#: library/admin/theme-options.php:295
+msgid "Narrow Layout"
+msgstr "Smalle Layout"
+
+#: library/admin/theme-options.php:300
+msgid "Wide Layout"
+msgstr "Brede Layout"
+
+#: library/admin/theme-options.php:311
+msgid "Default Layout Options"
+msgstr "Oorspronkelijke Layout Opties"
+
+#: library/admin/theme-options.php:316
+msgid "Default Layout"
+msgstr "Oorspronkelijke Layout"
+
+#: library/admin/theme-options.php:320
+msgid "No Sidebar"
+msgstr "Geen Sidebar"
+
+#: library/admin/theme-options.php:324
+msgid "No Sidebar, Full Width"
+msgstr "Geen Sidebar, volledige breedte"
+
+#: library/admin/theme-options.php:332 library/widgets/attitude_widgets.php:18
+msgid "Left Sidebar"
+msgstr "Sidebar Links "
+
+#: library/admin/theme-options.php:336 library/widgets/attitude_widgets.php:29
+msgid "Right Sidebar"
+msgstr "Sidebar Rechts"
+
+#: library/admin/theme-options.php:342
+msgid "Reset Layout"
+msgstr "Reset Layout"
+
+#: library/admin/theme-options.php:345
+msgid "Check to reset"
+msgstr "Klik aan om te resetten"
+
+#: library/admin/theme-options.php:355
+msgid "Custom Background"
+msgstr "Aangepaste achtergrond"
+
+#: library/admin/theme-options.php:361
+msgid "Need to replace default background?"
+msgstr "Wil je de oorspronkelijke achtergrond aanpassen?"
+
+#: library/admin/theme-options.php:367
+msgid ""
+"Note: The custom background change will be reflected in the background if "
+"the site layout is set to be narrow layout instead of the wide layout."
+msgstr ""
+"Opmerking: de wijziging in de aangepaste achtergrond zal te zien zijn op de "
+"achtergrond als de smalle layout van de site is geactiveerd, in plaats van "
+"de brede layout."
+
+#: library/admin/theme-options.php:376
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: library/admin/theme-options.php:381
+msgid "Enter your custom CSS styles."
+msgstr "Voer je aangepaste CSS stijl in."
+
+#: library/admin/theme-options.php:382
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Deze CSS overschrijft de CSS van het style.css bestand."
+
+#: library/admin/theme-options.php:390
+msgid "CSS Tutorial from W3Schools."
+msgstr "CSS Tutorial van W3Schools."
+
+#: library/admin/theme-options.php:392
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr ""
+
+#: library/admin/theme-options.php:392
+msgid "CSS Tutorial"
+msgstr ""
+
+#: library/admin/theme-options.php:392
+msgid "Click Here to Read"
+msgstr "Klik hier om verder te lezen"
+
+#: library/admin/theme-options.php:407
+msgid "Home Slogan Options"
+msgstr "Home Slogan Opties"
+
+#: library/admin/theme-options.php:413
+msgid "Disable Slogan Part"
+msgstr "Zet Slogan deel uit"
+
+#: library/admin/theme-options.php:419
+msgid "Slogan Position"
+msgstr "Slogan Positie"
+
+#: library/admin/theme-options.php:423
+msgid "Above Slider"
+msgstr "Boven de slider"
+
+#: library/admin/theme-options.php:427
+msgid "Below Slider"
+msgstr "Onder de slider"
+
+#: library/admin/theme-options.php:432
+msgid "Home Page Slogan1"
+msgstr "Home Page Slogan1"
+
+#: library/admin/theme-options.php:433 library/admin/theme-options.php:441
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "De beste lengte voor een slogan is ongeveer 10 woorden."
+
+#: library/admin/theme-options.php:440
+msgid "Home Page Slogan2"
+msgstr "Home Page Slogan2"
+
+#: library/admin/theme-options.php:448
+msgid "Redirect Button Text"
+msgstr ""
+
+#: library/admin/theme-options.php:449
+msgid "Text to show in Button"
+msgstr "Tekst voor in de Button"
+
+#: library/admin/theme-options.php:455
+msgid "Redirect Button Link"
+msgstr ""
+
+#: library/admin/theme-options.php:456
+msgid "Link this button to show your special work, portfolio"
+msgstr "Gebruik deze button om je speciale werk te laten zien, je portfolio"
+
+#: library/admin/theme-options.php:468
+msgid "Feed Redirect"
+msgstr ""
+
+#: library/admin/theme-options.php:474
+msgid "Feed Redirect URL"
+msgstr ""
+
+#: library/admin/theme-options.php:486
+msgid "Homepage / Frontpage Category Setting"
+msgstr "Homepagina / Voorpagina Categorie Instelling"
+
+#: library/admin/theme-options.php:492
+msgid "Front page posts categories:"
+msgstr "Voorpagina berichten categorieën:"
+
+#: library/admin/theme-options.php:494
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+"Alleen berichten die tot de geselecteerde categorieën behoren worden "
+"weergegeven op de voorpagina."
+
+#: library/admin/theme-options.php:499
+msgid "--Disabled--"
+msgstr "--Buiten gebruik--"
+
+#: library/admin/theme-options.php:509
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr ""
+"Je kunt verschillende categorieën selecteren door de CTRL toest ingedrukt te "
+"houden."
+
+#: library/admin/theme-options.php:524
+msgid "Slider Options"
+msgstr "Dia Opties"
+
+#: library/admin/theme-options.php:528
+msgid "Disable Slider"
+msgstr "Zet dia uit"
+
+#: library/admin/theme-options.php:533
+msgid "Number of Slides"
+msgstr "Aantal dia's"
+
+#: library/admin/theme-options.php:538
+msgid "Transition Effect:"
+msgstr "Overgangseffect:"
+
+#: library/admin/theme-options.php:558 library/admin/theme-options.php:649
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: library/admin/theme-options.php:566
+msgid "Transition Delay"
+msgstr "Overgang vertraging"
+
+#: library/admin/theme-options.php:569 library/admin/theme-options.php:576
+msgid "second(s)"
+msgstr "seconde(n)"
+
+#: library/admin/theme-options.php:573
+msgid "Transition Length"
+msgstr "Overgang lengte"
+
+#: library/admin/theme-options.php:585
+msgid "Featured Post/Page Slider Options"
+msgstr "Weergegeven bericht / Pagina Dia Opties"
+
+#: library/admin/theme-options.php:589
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Dia bericht uitsluiten van de homepagina berichten?"
+
+#: library/admin/theme-options.php:591
+msgid "Check to exclude"
+msgstr "Vink aan om uit te sluiten"
+
+#: library/admin/theme-options.php:596
+msgid "Featured Slider Post/Page #"
+msgstr "Weergegeven Dia Bericht/Pagina #"
+
+#: library/admin/theme-options.php:598
+msgid "Click Here To Edit"
+msgstr "Klik hier om aan te passen"
+
+#: library/admin/theme-options.php:604
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last column.)"
+"<br />* Featured Slider will show featured images, Title and excerpt of the "
+"respected added post's IDs."
+msgstr ""
+"<strong> Hieronder staan de stappen hoe je de diaspeler aan kunt passen. </"
+"strong> <br/>* Creëer Bericht, voeg afbeelding aan Bericht toe. <br/>* Voeg "
+"alle Bericht ID's toe die je in de diaspeler wilt weergeven. <br/> &nbsp;(Je "
+"kunt de ID van je Berichten zien in de inhoudsopgave van Alle Berichten in "
+"de laatste kolom.) <br/> * De diaspeler zal de afbeeldingen laten zien, plus "
+"de titel en een uittreksel van de toegevoegde BerichtenID's."
+
+#: library/admin/theme-options.php:605
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+"<strong> Opmerking: </strong> Je kunt nu ook Pagina ID's toevoegen. (Je kunt "
+"de ID van de Pagina's zien in de inhoudsopgave van Alle Pagina's in de "
+"laatste kolom.). "
+
+#: library/admin/theme-options.php:617
+#: library/structure/header-extensions.php:324
+msgid "Facebook"
+msgstr ""
+
+#: library/admin/theme-options.php:618
+#: library/structure/header-extensions.php:325
+msgid "Twitter"
+msgstr ""
+
+#: library/admin/theme-options.php:619
+#: library/structure/header-extensions.php:326
+msgid "Google Plus"
+msgstr ""
+
+#: library/admin/theme-options.php:620
+#: library/structure/header-extensions.php:327
+msgid "Pinterest"
+msgstr ""
+
+#: library/admin/theme-options.php:621
+#: library/structure/header-extensions.php:328
+msgid "Youtube"
+msgstr ""
+
+#: library/admin/theme-options.php:622
+#: library/structure/header-extensions.php:329
+msgid "Vimeo"
+msgstr ""
+
+#: library/admin/theme-options.php:623
+#: library/structure/header-extensions.php:330
+msgid "LinkedIn"
+msgstr ""
+
+#: library/admin/theme-options.php:624
+#: library/structure/header-extensions.php:331
+msgid "Flickr"
+msgstr ""
+
+#: library/admin/theme-options.php:625
+#: library/structure/header-extensions.php:332
+msgid "Tumblr"
+msgstr ""
+
+#: library/admin/theme-options.php:626
+#: library/structure/header-extensions.php:333
+msgid "Myspace"
+msgstr ""
+
+#: library/admin/theme-options.php:627
+#: library/structure/header-extensions.php:334
+msgid "RSS"
+msgstr ""
+
+#: library/admin/theme-options.php:667
+msgid "Analytics"
+msgstr ""
+
+#: library/admin/theme-options.php:672
+msgid "Code to display on Header"
+msgstr "Code om weer te geven in Header"
+
+#: library/admin/theme-options.php:678
+msgid "Note: Enter your custom header script."
+msgstr "Opmerking: voeg je aangepaste header script toe."
+
+#: library/admin/theme-options.php:681
+msgid "Code to display on Footer"
+msgstr "Code om voettekst weer te geven"
+
+#: library/admin/theme-options.php:688
+msgid "Note: Enter your custom footer script."
+msgstr "Opmerking: Voer je eigen aangepaste voettekst in."
+
+#: library/functions/functions.php:347 library/functions/functions.php:361
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: library/shortcodes/attitude-shortcodes.php:52
+msgid "WordPress"
+msgstr ""
+
+#: library/structure/content-extensions.php:147
+#: library/structure/content-extensions.php:308
+#: library/structure/content-extensions.php:464
+#: library/structure/content-extensions.php:577
+#: library/structure/content-extensions.php:692
+msgid "By"
+msgstr "Door"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: library/structure/content-extensions.php:153
+#: library/structure/content-extensions.php:314
+#: library/structure/content-extensions.php:470
+#: library/structure/content-extensions.php:583
+#: library/structure/content-extensions.php:698
+msgid "Comments Off"
+msgstr "Reacties Uit"
+
+#: library/structure/content-extensions.php:157
+#: library/structure/content-extensions.php:474
+#: library/structure/content-extensions.php:587
+#: library/structure/content-extensions.php:673
+#: library/widgets/attitude_widgets.php:242
+msgid "Read more"
+msgstr "Lees meer"
+
+#: library/structure/content-extensions.php:172
+#: library/structure/content-extensions.php:243
+#: library/structure/content-extensions.php:340
+#: library/structure/content-extensions.php:391
+#: library/structure/content-extensions.php:502
+#: library/structure/content-extensions.php:615
+#: library/structure/content-extensions.php:727
+#: library/structure/content-extensions.php:916
+msgid "No Posts Found."
+msgstr "Geen Bericht Gevonden."
+
+#: library/structure/content-extensions.php:212
+#: library/structure/content-extensions.php:296
+#: library/structure/content-extensions.php:676
+#: library/structure/content-extensions.php:890
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: library/structure/content-extensions.php:282
+msgid ", "
+msgstr ""
+
+#: library/structure/content-extensions.php:288
+msgid "Tagged on: "
+msgstr ""
+
+#: library/structure/content-extensions.php:493
+#: library/structure/content-extensions.php:606
+#: library/structure/content-extensions.php:718
+#: library/structure/content-extensions.php:754
+msgid "&laquo; Previous"
+msgstr ""
+
+#: library/structure/content-extensions.php:494
+#: library/structure/content-extensions.php:607
+#: library/structure/content-extensions.php:719
+#: library/structure/content-extensions.php:755
+msgid "Next &raquo;"
+msgstr ""
+
+#: library/structure/content-extensions.php:774
+msgid "&larr; Previous"
+msgstr ""
+
+#: library/structure/content-extensions.php:775
+msgid "Next &rarr;"
+msgstr ""
+
+#: library/structure/content-extensions.php:782
+msgid "&larr;"
+msgstr ""
+
+#: library/structure/content-extensions.php:783
+msgid "&rarr;"
+msgstr ""
+
+#: library/structure/content-extensions.php:821
+msgid "Pingback:"
+msgstr ""
+
+#: library/structure/content-extensions.php:821
+msgid "(Edit)"
+msgstr "(Wijzig)"
+
+#: library/structure/content-extensions.php:836
+msgid "Post author"
+msgstr "Bericht van de auteur"
+
+#: library/structure/content-extensions.php:842
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: library/structure/content-extensions.php:848
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wordt behandeld door de beheerder."
+
+#: library/structure/content-extensions.php:853
+msgid "Edit"
+msgstr "Wijzig"
+
+#: library/structure/content-extensions.php:857
+msgid "Reply <span>&darr;</span>"
+msgstr "Reageer <span>&darr;</span>"
+
+#: library/structure/content-extensions.php:939
+msgid "Error 404-Page NOT Found"
+msgstr "Foutmelding 404- Pagina NIET Gevonden"
+
+#: library/structure/content-extensions.php:942
+msgid "It seems we can't find what you're looking for."
+msgstr "We kunnen niet vinden wat je zoekt."
+
+#: library/structure/content-extensions.php:943
+msgid "This might be because:"
+msgstr "Misschien is dit de oorzaak:"
+
+#: library/structure/content-extensions.php:944
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Je hebt het webadres niet juist ingetypt, of de pagina die je zoekt is "
+"verhuisd, gewijzigd of verwijderd."
+
+#: library/structure/content-extensions.php:945
+msgid "Please try the following instead:"
+msgstr "Probeer het volgende:"
+
+#: library/structure/content-extensions.php:946
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"Controleer op een spelfout in de URL, klik daarna op de ververs-knop van je "
+"browser."
+
+#: library/structure/footer-extensions.php:44
+msgid "Copyright &copy;"
+msgstr ""
+
+#: library/structure/footer-extensions.php:44
+msgid "Theme by:"
+msgstr "Thema door:"
+
+#: library/structure/footer-extensions.php:44
+msgid "Powered by:"
+msgstr "Ondersteund door:"
+
+#: library/structure/footer-extensions.php:67
+msgid "Back to Top"
+msgstr "Terug naar boven"
+
+#: library/structure/header-extensions.php:80
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: library/structure/header-extensions.php:353
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: library/structure/header-extensions.php:505
+msgid "Page NOT Found"
+msgstr "Pagina NIET Gevonden"
+
+#: library/structure/header-extensions.php:508
+msgid "Search Results"
+msgstr "Zoekresultaten"
+
+#: library/structure/searchform-extensions.php:20
+#: library/structure/searchform-extensions.php:21
+msgid "Search"
+msgstr "Zoek"
+
+#: library/widgets/attitude_widgets.php:20
+msgid "Shows widgets at Left side."
+msgstr "Laat de widgets aan de Linker kant zien."
+
+#: library/widgets/attitude_widgets.php:31
+msgid "Shows widgets at Right side."
+msgstr "Laat de widgets aan de Rechter kan zien."
+
+#: library/widgets/attitude_widgets.php:40
+msgid "Business Page Sidebar"
+msgstr "Zakelijke Pagina Sidebar"
+
+#: library/widgets/attitude_widgets.php:42
+msgid ""
+"Shows widgets on Business Page Template. Sutiable widget: Theme Horse: "
+"Featured widget, Theme Horse: Testimonial, Theme Horse: Services"
+msgstr ""
+"Laat widgets zien op de Zakelijke Pagina Template. Geschikte widget: Theme "
+"Horse: Featured widget, Theme Horse: Testimonial, Theme Horse: Sevices"
+
+#: library/widgets/attitude_widgets.php:51
+msgid "Contact Page Sidebar"
+msgstr "Contactpagina Sidebar"
+
+#: library/widgets/attitude_widgets.php:53
+msgid "Shows widgets on Contact Page Template."
+msgstr "Laat widgets zien op de Contactpagina Template"
+
+#: library/widgets/attitude_widgets.php:62
+msgid "Footer Sidebar"
+msgstr "Voettekst Sidebar"
+
+#: library/widgets/attitude_widgets.php:64
+msgid "Shows widgets at footer."
+msgstr "Laat widgets zien in de voettekst."
+
+#: library/widgets/attitude_widgets.php:91
+msgid "Displays Custom Tag Cloud"
+msgstr "Laat Aangepaste Tag Cloud zien"
+
+#: library/widgets/attitude_widgets.php:93
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Theme Horse: Aangepaste Tag Cloud"
+
+#: library/widgets/attitude_widgets.php:145
+#: library/widgets/attitude_widgets.php:286
+#: library/widgets/attitude_widgets.php:417
+msgid "Title:"
+msgstr "Titel:"
+
+#: library/widgets/attitude_widgets.php:159
+msgid "Display Services( Business Layout )"
+msgstr "Weergave Diensten (Zakelijke Layout)"
+
+#: library/widgets/attitude_widgets.php:161
+msgid "Theme Horse: Services"
+msgstr "Theme Horse: Diensten"
+
+#: library/widgets/attitude_widgets.php:177
+#: library/widgets/attitude_widgets.php:295
+msgid "Page"
+msgstr "Pagina"
+
+#: library/widgets/attitude_widgets.php:263
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr ""
+"Gebruik deze widget om recent werk te laten zien, je portfolio of welke "
+"pagina je maar wilt (Zakelijke Layout)"
+
+#: library/widgets/attitude_widgets.php:265
+msgid "Theme Horse: Featured Widget"
+msgstr "Theme Horse: Featured Widget"
+
+#: library/widgets/attitude_widgets.php:289
+msgid "Description"
+msgstr "Omschrijving"
+
+#: library/widgets/attitude_widgets.php:373
+msgid "Display Testimonial( Business Layout )"
+msgstr "Weergave Referenties (Zakelijke Layout)"
+
+#: library/widgets/attitude_widgets.php:375
+msgid "Theme Horse: Testimonial"
+msgstr "Theme Horse: Referentie"
+
+#: library/widgets/attitude_widgets.php:419
+msgid "Testimonial Description"
+msgstr "Referentie Omschrijving"
+
+#: library/widgets/attitude_widgets.php:422
+msgid "Name:"
+msgstr "Naam:"
+
+#: library/widgets/attitude_widgets.php:425
+msgid "Byline:"
+msgstr "Onderschrift:"

@@ -1,0 +1,1002 @@
+# Attitude WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Attitude Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Attitude\n"
+"POT-Creation-Date: 2015-10-25 01:30+0600\n"
+"PO-Revision-Date: 2015-12-09 23:18+0600\n"
+"Last-Translator: kirill belotserkovskiy <k.belotserkovskiy@gmail.com>\n"
+"Language-Team: Team Horse <support@themehorse.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ../../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%2$s&rdquo;"
+
+#: comments.php:35
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Не комментируйте тут!"
+
+#: functions.php:136
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: library/admin/attitude-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template and Blog Type Templates.)"
+msgstr "Выберите разметку для этой страницы."
+
+#: library/admin/attitude-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Выберите разметку для этой записи"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Разметка по умолчанию"
+
+#: library/admin/attitude-metaboxes.php:38
+msgid "Customizer"
+msgstr "Настроить"
+
+#: library/admin/attitude-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Без сайдбара"
+
+#: library/admin/attitude-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "Без сайдбара, во всю ширь"
+
+#: library/admin/attitude-metaboxes.php:56
+#: library/functions/customizer.php:291
+msgid "No Sidebar, One Column"
+msgstr "Без сайдбара, одна колонка"
+
+#: library/admin/attitude-metaboxes.php:62
+msgid "Left sidebar"
+msgstr "Сайдбар слева"
+
+#: library/admin/attitude-metaboxes.php:68
+msgid "Right sidebar"
+msgstr "Сайдбар справа"
+
+#: library/footer_info/attitude-footer_info.php:33
+msgid "WordPress"
+msgstr "WordPress"
+
+#: library/footer_info/attitude-footer_info.php:41
+msgid "Theme Horse"
+msgstr "Theme Horse"
+
+#: library/functions/customizer.php:11 library/functions/customizer.php:12
+msgid "Donate"
+msgstr "Сделать пожертвование"
+
+#: library/functions/customizer.php:14
+msgid "Review Attitude"
+msgstr "Написать отзыв об Attitude"
+
+#: library/functions/customizer.php:15
+msgid "Rate Attitude"
+msgstr "Оценить Attitude"
+
+#: library/functions/customizer.php:17
+msgid "Attitude Theme Instructions"
+msgstr "Руководство к теме Attitude"
+
+#: library/functions/customizer.php:18
+msgid "Theme Instructions"
+msgstr "Инструкции к теме"
+
+#: library/functions/customizer.php:20 library/functions/customizer.php:21
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: library/functions/customizer.php:23
+msgid "Attitude Demo"
+msgstr "Демо Attitude"
+
+#: library/functions/customizer.php:24
+msgid "View Demo"
+msgstr "Демо"
+
+#: library/functions/customizer.php:32 library/functions/customizer.php:33
+#: library/functions/customizer.php:705
+msgid "Upgrade to Attitude Pro"
+msgstr "Перейти на Про-версию"
+
+#: library/functions/customizer.php:34
+msgid ""
+"to get more aditional features like (Advanced Slider, Color Options, "
+"Typography Options and many more.)"
+msgstr ""
+"чтобы получить дополнительные фичи: настройки цвета и типографики, "
+"продвинутый слайдер и много чего ещё."
+
+#: library/functions/customizer.php:53
+msgid "--Disabled--"
+msgstr "--Не использовать--"
+
+#: library/functions/customizer.php:69
+msgid "Design Options"
+msgstr "Параметры отображения"
+
+#: library/functions/customizer.php:75
+msgid "Advanced Options"
+msgstr "Слоган, РСС и записи на главной"
+
+#: library/functions/customizer.php:81
+msgid "Featured Post/ Page Slider"
+msgstr "Слайдер"
+
+#: library/functions/customizer.php:87
+msgid "What is new on Attitude Pro?"
+msgstr "Attitude Pro"
+
+#: library/functions/customizer.php:100 library/functions/customizer.php:121
+msgid "Attitude Upgrade"
+msgstr "Купить Attitude Pro"
+
+#: library/functions/customizer.php:107
+msgid "Attitude Support"
+msgstr "Поддержка Attitude"
+
+#: library/functions/customizer.php:108
+msgid "Hey! Buy us a beer and we shall come with new features and update."
+msgstr "Пссс, пацаны! Купите нам пива, а мы добавим в тему новых плюшек."
+
+#: library/functions/customizer.php:130
+msgid "Custom Header"
+msgstr "Шапка сайта"
+
+#: library/functions/customizer.php:141
+msgid "Hide Searchform from Header"
+msgstr "Скрыть форму поиска из шапки"
+
+#: library/functions/customizer.php:156
+msgid "Header Logo"
+msgstr "Логотип в шапке"
+
+#: library/functions/customizer.php:169
+msgid "Display"
+msgstr "Показать"
+
+#: library/functions/customizer.php:175
+msgid "Header Logo Only"
+msgstr "Только логотип"
+
+#: library/functions/customizer.php:176
+msgid "Header Text Only"
+msgstr "Только текст"
+
+#: library/functions/customizer.php:177
+msgid "Disable"
+msgstr "Ничего"
+
+#: library/functions/customizer.php:182
+msgid "Fav Icon Options"
+msgstr "Фавикон"
+
+#: library/functions/customizer.php:193
+msgid "Disable Favicon"
+msgstr "Не использовать фавикон"
+
+#: library/functions/customizer.php:215
+msgid "Web Clip Icon Options"
+msgstr "Web Clip иконка"
+
+#: library/functions/customizer.php:226
+msgid "Disable Web Clip Icon"
+msgstr "Не использовать"
+
+#: library/functions/customizer.php:248
+msgid "Site Layout Options"
+msgstr "Разметка сайта"
+
+#: library/functions/customizer.php:264
+msgid "Wide Layout"
+msgstr "Широкая"
+
+#: library/functions/customizer.php:265
+msgid "Narrow Layout"
+msgstr "Узкая"
+
+#: library/functions/customizer.php:270
+msgid "Default Layout Options"
+msgstr "Разметка по умолчанию"
+
+#: library/functions/customizer.php:271
+msgid "Make sure that you have not set the layout from specific page"
+msgstr "Убедитесь, что не указали разметку для какой-то страницы"
+
+#: library/functions/customizer.php:287
+#: library/widgets/attitude_widgets.php:29
+msgid "Right Sidebar"
+msgstr "Сайдбар справа"
+
+#: library/functions/customizer.php:288
+#: library/widgets/attitude_widgets.php:18
+msgid "Left Sidebar"
+msgstr "Сайдбар слева"
+
+#: library/functions/customizer.php:289
+msgid "No Sidebar"
+msgstr "Без сайдбаров"
+
+#: library/functions/customizer.php:290
+msgid "No Sidebar, Full Width"
+msgstr "Без сайдбара, во всю ширь"
+
+#: library/functions/customizer.php:296
+msgid "Custom CSS"
+msgstr "Пользовательский CSS"
+
+#: library/functions/customizer.php:297
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Этот код перепишет тот, что содержится в style.css"
+
+#: library/functions/customizer.php:315
+msgid "Home Slogan Options"
+msgstr "Слоган"
+
+#: library/functions/customizer.php:326
+msgid "Disable Slogan Part"
+msgstr "Не использовать слоган"
+
+#: library/functions/customizer.php:338
+msgid "Slogan Position"
+msgstr "Где показывать"
+
+#: library/functions/customizer.php:344
+msgid "Below Slider"
+msgstr "Под слайдером"
+
+#: library/functions/customizer.php:345
+msgid "Above Slider"
+msgstr "Над слайдером"
+
+#: library/functions/customizer.php:355
+msgid "Home Page Slogan1"
+msgstr "Заголовок"
+
+#: library/functions/customizer.php:356 library/functions/customizer.php:369
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "Не больше 10 слов."
+
+#: library/functions/customizer.php:368
+msgid "Home Page Slogan2"
+msgstr "Описание"
+
+#: library/functions/customizer.php:381
+msgid "Redirect Button Text"
+msgstr "Текст на кнопке"
+
+#: library/functions/customizer.php:382
+msgid "Text to show in Button"
+msgstr "Что будет написано на кнопке"
+
+#: library/functions/customizer.php:394
+msgid "Redirect Button Link"
+msgstr "Ссылка с кнопки"
+
+#: library/functions/customizer.php:395
+msgid "Link this button to show your special work, portfolio"
+msgstr "Куда будет вести ссылка с кнопки"
+
+#: library/functions/customizer.php:402
+msgid "Feed Redirect"
+msgstr "Перенаправление РСС"
+
+#: library/functions/customizer.php:414
+msgid "Feed Redirect URL"
+msgstr "Куда перенаправить РСС"
+
+#: library/functions/customizer.php:422
+msgid "Homepage / Frontpage Category Setting"
+msgstr "Главная страница"
+
+#: library/functions/customizer.php:423
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page. ( You may select multiple categories by holding down the "
+"CTRL key. ) "
+msgstr ""
+"На главной странице будут отображаться записи только из выбранных рубрик. "
+"Можете выбрать несколько с зажатым Ctrl."
+
+#: library/functions/customizer.php:438
+msgid "Front page posts categories"
+msgstr "Записи из этих рубрик появятся на главной"
+
+#: library/functions/customizer.php:448
+msgid "Slider Options"
+msgstr "Параметры слайдера"
+
+#: library/functions/customizer.php:460
+msgid "Disable Slider"
+msgstr "Не использовать слайдер"
+
+#: library/functions/customizer.php:473
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: library/functions/customizer.php:486
+msgid "Transition Effect"
+msgstr "Эффект перехода:"
+
+#: library/functions/customizer.php:491
+msgid "Fade"
+msgstr "Растворение"
+
+#: library/functions/customizer.php:492
+msgid "Wipe"
+msgstr "Стирание"
+
+#: library/functions/customizer.php:493
+msgid "Scroll Up"
+msgstr "Прокрутка вверх"
+
+#: library/functions/customizer.php:494
+msgid "Scroll Down"
+msgstr "Прокрутка вниз"
+
+#: library/functions/customizer.php:495
+msgid "Scroll Left"
+msgstr "Прокрутка влево"
+
+#: library/functions/customizer.php:496
+msgid "Scroll Right"
+msgstr "Прокрутка вправо"
+
+#: library/functions/customizer.php:497
+msgid "Blind X"
+msgstr "Смещение по горизонтали"
+
+#: library/functions/customizer.php:498
+msgid "Blind Y"
+msgstr "Смещение по вертикали"
+
+#: library/functions/customizer.php:499
+msgid "Blind Z"
+msgstr "Смещение по диагонали"
+
+#: library/functions/customizer.php:500
+msgid "Cover"
+msgstr "Перекрытие"
+
+#: library/functions/customizer.php:501
+msgid "Shuffle"
+msgstr "Смешивание"
+
+#: library/functions/customizer.php:512
+msgid "Transition Delay"
+msgstr "Время до перехода в секундах"
+
+#: library/functions/customizer.php:525
+msgid "Transition Length"
+msgstr "Длительность перехода в секундах"
+
+#: library/functions/customizer.php:532
+msgid "Featured Post/ Page Slider Options"
+msgstr "Выбор записей и страниц"
+
+#: library/functions/customizer.php:544
+msgid "Exclude Slider Post"
+msgstr "Не показывать записи из слайдера"
+
+#: library/functions/customizer.php:545
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Не показывать записи из слайдера в ленте записей на главной"
+
+#: library/functions/customizer.php:560
+msgid " Featured Slider Post/Page #"
+msgstr " Рекомендованная запись/страница #"
+
+#: library/functions/customizer.php:570
+msgid "Social Links"
+msgstr "Социальные кнопки"
+
+#: library/functions/customizer.php:575
+#: library/structure/header-extensions.php:271
+msgid "Facebook"
+msgstr "Facebook"
+
+#: library/functions/customizer.php:576
+#: library/structure/header-extensions.php:272
+msgid "Twitter"
+msgstr "Twitter"
+
+#: library/functions/customizer.php:577
+#: library/structure/header-extensions.php:273
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: library/functions/customizer.php:578
+#: library/structure/header-extensions.php:274
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: library/functions/customizer.php:579
+#: library/structure/header-extensions.php:275
+msgid "Youtube"
+msgstr "Youtube"
+
+#: library/functions/customizer.php:580
+#: library/structure/header-extensions.php:276
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: library/functions/customizer.php:581
+#: library/structure/header-extensions.php:277
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: library/functions/customizer.php:582
+#: library/structure/header-extensions.php:278
+msgid "Flickr"
+msgstr "Flickr"
+
+#: library/functions/customizer.php:583
+#: library/structure/header-extensions.php:279
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: library/functions/customizer.php:584
+#: library/structure/header-extensions.php:280
+msgid "Myspace"
+msgstr "Myspace"
+
+#: library/functions/customizer.php:585
+#: library/structure/header-extensions.php:281
+msgid "RSS"
+msgstr "RSS"
+
+#: library/functions/customizer.php:619
+msgid "Webmaster Tools"
+msgstr "Инструменты разработчика"
+
+#: library/functions/customizer.php:629
+msgid "Code to display on Header"
+msgstr "Код в хедер"
+
+#: library/functions/customizer.php:630
+msgid "Note: Enter your custom header script."
+msgstr "Введите код, который хотите вставить в хедер"
+
+#: library/functions/customizer.php:642
+msgid "Code to display on Footer"
+msgstr "Код в футер."
+
+#: library/functions/customizer.php:643
+msgid "Note: Enter your custom footer script."
+msgstr "Введите код, который хотите вставить в футер"
+
+#: library/functions/functions.php:343 library/functions/functions.php:357
+msgid "Navigation"
+msgstr "Меню"
+
+#: library/structure/content-extensions.php:148
+#: library/structure/content-extensions.php:311
+#: library/structure/content-extensions.php:467
+#: library/structure/content-extensions.php:580
+#: library/structure/content-extensions.php:695
+msgid "By"
+msgstr "От"
+
+#: library/structure/content-extensions.php:154
+#: library/structure/content-extensions.php:317
+#: library/structure/content-extensions.php:473
+#: library/structure/content-extensions.php:586
+#: library/structure/content-extensions.php:701
+msgid "No Comments"
+msgstr "Нет комментариев"
+
+#: library/structure/content-extensions.php:154
+#: library/structure/content-extensions.php:317
+#: library/structure/content-extensions.php:473
+#: library/structure/content-extensions.php:586
+#: library/structure/content-extensions.php:701
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: library/structure/content-extensions.php:154
+#: library/structure/content-extensions.php:317
+#: library/structure/content-extensions.php:473
+#: library/structure/content-extensions.php:586
+#: library/structure/content-extensions.php:701
+msgid "% Comments"
+msgstr "% комментариев "
+
+#: library/structure/content-extensions.php:154
+#: library/structure/content-extensions.php:317
+#: library/structure/content-extensions.php:473
+#: library/structure/content-extensions.php:586
+#: library/structure/content-extensions.php:701
+msgid "Comments Off"
+msgstr "Комментарии отключены"
+
+#: library/structure/content-extensions.php:158
+#: library/structure/content-extensions.php:477
+#: library/structure/content-extensions.php:590
+#: library/structure/content-extensions.php:676
+#: library/widgets/attitude_widgets.php:243
+msgid "Read more"
+msgstr "Читать далее"
+
+#: library/structure/content-extensions.php:175
+#: library/structure/content-extensions.php:246
+#: library/structure/content-extensions.php:343
+#: library/structure/content-extensions.php:394
+#: library/structure/content-extensions.php:505
+#: library/structure/content-extensions.php:618
+#: library/structure/content-extensions.php:730
+#: library/structure/content-extensions.php:919
+msgid "No Posts Found."
+msgstr "Ничего не нашёл:-("
+
+#: library/structure/content-extensions.php:215
+#: library/structure/content-extensions.php:299
+#: library/structure/content-extensions.php:679
+#: library/structure/content-extensions.php:893
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: library/structure/content-extensions.php:285
+msgid ", "
+msgstr ","
+
+#: library/structure/content-extensions.php:291
+msgid "Tagged on: "
+msgstr "Метки:"
+
+#: library/structure/content-extensions.php:496
+#: library/structure/content-extensions.php:609
+#: library/structure/content-extensions.php:721
+#: library/structure/content-extensions.php:757
+msgid "&laquo; Previous"
+msgstr "&laquo; Предыдущие"
+
+#: library/structure/content-extensions.php:497
+#: library/structure/content-extensions.php:610
+#: library/structure/content-extensions.php:722
+#: library/structure/content-extensions.php:758
+msgid "Next &raquo;"
+msgstr "Следующие &raquo;"
+
+#: library/structure/content-extensions.php:777
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущие"
+
+#: library/structure/content-extensions.php:778
+msgid "Next &rarr;"
+msgstr "Следующие &rarr;"
+
+#: library/structure/content-extensions.php:785
+msgid "&larr;"
+msgstr "&larr;"
+
+#: library/structure/content-extensions.php:786
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: library/structure/content-extensions.php:824
+msgid "Pingback:"
+msgstr "Обратные ссылки:"
+
+#: library/structure/content-extensions.php:824
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: library/structure/content-extensions.php:839
+msgid "Post author"
+msgstr "Автор"
+
+#: library/structure/content-extensions.php:845
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#: library/structure/content-extensions.php:851
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ждёт своей участи."
+
+#: library/structure/content-extensions.php:856
+msgid "Edit"
+msgstr "Редактировать"
+
+#: library/structure/content-extensions.php:860
+msgid "Reply <span>&darr;</span>"
+msgstr "Ответить <span>&darr;</span>"
+
+#: library/structure/content-extensions.php:942
+msgid "Error 404-Page NOT Found"
+msgstr "404 ошибка — страница не найдена"
+
+#: library/structure/content-extensions.php:945
+msgid "It seems we can't find what you're looking for."
+msgstr "Не получается найти что вы ищите."
+
+#: library/structure/content-extensions.php:946
+msgid "This might be because:"
+msgstr "Как так получилось?"
+
+#: library/structure/content-extensions.php:947
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Может вы ввели неправильный адрес, а может мы переместили или удалили "
+"страницу, которую вы ищите."
+
+#: library/structure/content-extensions.php:948
+msgid "Please try the following instead:"
+msgstr "Что делать?"
+
+#: library/structure/content-extensions.php:949
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"Проверьте, правильно ли вы ввели адрес и нажмите Энтер. Если адрес верный, а "
+"вас снова перебросило сюда то начните с главной (нажмите на логотип, вас "
+"перебросит), или воспользуйтесь посиком (в правом верхнем углу)."
+
+#: library/structure/footer-extensions.php:44
+msgid "Copyright &copy;"
+msgstr "Авторские права &copy;"
+
+#: library/structure/footer-extensions.php:44
+msgid "Theme by:"
+msgstr "Тема от"
+
+#: library/structure/footer-extensions.php:44
+msgid "Powered by:"
+msgstr "Работает на"
+
+#: library/structure/footer-extensions.php:66
+msgid "Back to Top"
+msgstr "Наверх"
+
+#: library/structure/header-extensions.php:300
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s на %2$s"
+
+#: library/structure/header-extensions.php:443
+msgid "Page NOT Found"
+msgstr "Страница не найдена:-("
+
+#: library/structure/header-extensions.php:446
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: library/structure/searchform-extensions.php:20
+#: library/structure/searchform-extensions.php:21
+msgid "Search"
+msgstr "Поиск"
+
+#: library/widgets/attitude_widgets.php:20
+msgid "Shows widgets at Left side."
+msgstr "Показывает виджеты слева"
+
+#: library/widgets/attitude_widgets.php:31
+msgid "Shows widgets at Right side."
+msgstr "Показывает виджеты справа"
+
+#: library/widgets/attitude_widgets.php:40
+msgid "Business Page Sidebar"
+msgstr "Главная страница"
+
+#: library/widgets/attitude_widgets.php:42
+msgid ""
+"Shows widgets on Business Page Template. Sutiable widget: Theme Horse: "
+"Featured widget, Theme Horse: Testimonial, Theme Horse: Services"
+msgstr ""
+"Показывает виджеты на главной странице. Доступные видежты: TH: Рекомендуемые "
+"страницы, TH: Отзывы, TH: Услуги, TH: Промо страница."
+
+#: library/widgets/attitude_widgets.php:51
+msgid "Contact Page Sidebar"
+msgstr "Контакты"
+
+#: library/widgets/attitude_widgets.php:53
+msgid "Shows widgets on Contact Page Template."
+msgstr "Показывает виджеты на странице с контактами."
+
+#: library/widgets/attitude_widgets.php:62
+msgid "Footer Sidebar"
+msgstr "Подвал"
+
+#: library/widgets/attitude_widgets.php:64
+msgid "Shows widgets at footer."
+msgstr "Показывает виджеты в подвале."
+
+#: library/widgets/attitude_widgets.php:92
+msgid "Displays Custom Tag Cloud"
+msgstr "Показывает альтернативное облако меток."
+
+#: library/widgets/attitude_widgets.php:94
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "TH: Облако меток"
+
+#: library/widgets/attitude_widgets.php:146
+#: library/widgets/attitude_widgets.php:287
+#: library/widgets/attitude_widgets.php:418
+msgid "Title:"
+msgstr "Название:"
+
+#: library/widgets/attitude_widgets.php:160
+msgid "Display Services( Business Layout )"
+msgstr "Услуги (для главной страницы)"
+
+#: library/widgets/attitude_widgets.php:162
+msgid "Theme Horse: Services"
+msgstr "TH: Услуги"
+
+#: library/widgets/attitude_widgets.php:178
+#: library/widgets/attitude_widgets.php:296
+msgid "Page"
+msgstr "Страница"
+
+#: library/widgets/attitude_widgets.php:264
+msgid ""
+"Use this widget to show recent work, portfolio or any pages as your wish "
+"( Business Layout )"
+msgstr ""
+"Показывает последние работы, портфолио или что-то ещё на главной странице."
+
+#: library/widgets/attitude_widgets.php:266
+msgid "Theme Horse: Featured Widget"
+msgstr "TH: рекомендуемые страницы"
+
+#: library/widgets/attitude_widgets.php:290
+msgid "Description"
+msgstr "Описание"
+
+#: library/widgets/attitude_widgets.php:374
+msgid "Display Testimonial( Business Layout )"
+msgstr "Показывает отзывы о вашей компании."
+
+#: library/widgets/attitude_widgets.php:376
+msgid "Theme Horse: Testimonial"
+msgstr "TH: Отзывы"
+
+#: library/widgets/attitude_widgets.php:420
+msgid "Testimonial Description"
+msgstr "Отзыв:"
+
+#: library/widgets/attitude_widgets.php:423
+msgid "Name:"
+msgstr "Имя:"
+
+#: library/widgets/attitude_widgets.php:426
+msgid "Byline:"
+msgstr "Должность:"
+
+#: library/widgets/attitude_widgets.php:440
+msgid "Display PromoBox ( Business Layout )"
+msgstr "Показывает картинку с текстом и кнопкой поперёк главной страницы."
+
+#: library/widgets/attitude_widgets.php:442
+msgid "Theme Horse: PromoBox"
+msgstr "TH: Промо"
+
+#: library/widgets/attitude_widgets.php:482
+msgid "Background Image:"
+msgstr "Фоновое изображение:"
+
+#: library/widgets/attitude_widgets.php:485
+msgid "Upload"
+msgstr "Загрузить"
+
+#: library/widgets/attitude_widgets.php:489
+msgid "Primary Promotional:"
+msgstr "Заголовок:"
+
+#: library/widgets/attitude_widgets.php:494
+msgid "Secondary Promotional"
+msgstr "Описание:"
+
+#: library/widgets/attitude_widgets.php:499
+msgid "Redirect Text:"
+msgstr "Текст на кнопке:"
+
+#: library/widgets/attitude_widgets.php:505
+msgid "Redirect Url:"
+msgstr "Ссылка с кнопки:"
+
+#~ msgid "Theme Settings"
+#~ msgstr "Настройки темы"
+
+#~ msgid "Theme Options"
+#~ msgstr "Параметры темы"
+
+#~ msgid "Theme Options by"
+#~ msgstr "Параметры темы от"
+
+#~ msgid "Confused about something? See"
+#~ msgstr "Непонятно? Смотрите"
+
+#~ msgid "Want to add bunch of additional features? Upgrade to Pro version!"
+#~ msgstr "Хотите новых плюшек? Переходите на Про-версию!"
+
+#~ msgid "Review Clean Retina"
+#~ msgstr "Обзор Ретина"
+
+#~ msgid "Settings saved."
+#~ msgstr "Настройки сохранены"
+
+#~ msgid "Change Header Logo"
+#~ msgstr "Изменить логотип в заголовке"
+
+#~ msgid "Preview"
+#~ msgstr "Демонстрация"
+
+#~ msgid "Show"
+#~ msgstr "Показать"
+
+#~ msgid "Need to replace Header Image?"
+#~ msgstr "Удалить изображение из заголовка?"
+
+#~ msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+#~ msgstr "<a class=\"button\" href=\"%s\">Нажмите сюда</a>"
+
+#~ msgid "Check to hide"
+#~ msgstr "Нажмите, чтобы скрыть"
+
+#~ msgid "Save All Changes"
+#~ msgstr "Сохранить изменения"
+
+#~ msgid "Check to disable"
+#~ msgstr "Отметьте, чтобы не использовать"
+
+#~ msgid "Fav Icon URL"
+#~ msgstr "URL фавикона"
+
+#~ msgid "Change Fav Icon"
+#~ msgstr "Изменить фавикон"
+
+#~ msgid "favicon"
+#~ msgstr "фавикон"
+
+#~ msgid "Web Clip Icon URL"
+#~ msgstr "URL иконки"
+
+#~ msgid "Change Web Clip Icon"
+#~ msgstr "Изменить иконку"
+
+#~ msgid "webpage icon"
+#~ msgstr "иконка страницы"
+
+#~ msgid "Site Layout"
+#~ msgstr "Разметка сайта"
+
+#~ msgid "This change is reflected in whole website"
+#~ msgstr "Эти изменения затронут весь сайт"
+
+#~ msgid "Default Layout"
+#~ msgstr "Разметка по умолчанию"
+
+#~ msgid "Reset Layout"
+#~ msgstr "Сбросить настройки разметки"
+
+#~ msgid "Check to reset"
+#~ msgstr "Отметьте, чтобы сбросить"
+
+#~ msgid "Custom Background"
+#~ msgstr "Фон"
+
+#~ msgid "Need to replace default background?"
+#~ msgstr "Изменить фон по умолчанию?"
+
+#~ msgid ""
+#~ "Note: The custom background change will be reflected in the background if "
+#~ "the site layout is set to be narrow layout instead of the wide layout."
+#~ msgstr ""
+#~ "Внимание: фон будет виден только в том случае, если выбран узкий шаблон."
+
+#~ msgid "Enter your custom CSS styles."
+#~ msgstr "Введите ваш CSS код сюда."
+
+#~ msgid "CSS Tutorial from W3Schools."
+#~ msgstr "Уроки CSS от W3Schools."
+
+#~ msgid "CSS Tutorial"
+#~ msgstr "Уроки CSS"
+
+#~ msgid "Click Here to Read"
+#~ msgstr "Читать"
+
+#~ msgid "You may select multiple categories by holding down the CTRL key."
+#~ msgstr "Вы можете выбрать несколько разделов, кликая по ним с зажатым CTRL."
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "second(s)"
+#~ msgstr "секунд"
+
+#~ msgid "Check to exclude"
+#~ msgstr "Не показывать"
+
+#~ msgid "Click Here To Edit"
+#~ msgstr "Нажмите для редактирования"
+
+#~ msgid ""
+#~ "<strong>Following are the steps on how to use the featured slider.</"
+#~ "strong><br />* Create Post, Add featured image to the Post.<br />* Add "
+#~ "all the Post ID that you want to use in the featured slider. <br /> &nbsp;"
+#~ "(You can now see the Posts' respective ID in the All Posts' table in last "
+#~ "column.)<br />* Featured Slider will show featured images, Title and "
+#~ "excerpt of the respected added post's IDs."
+#~ msgstr ""
+#~ "<strong>Как использовать слайдер:</strong><br />•&nbsp;Создайте запись и "
+#~ "заглавную картинку для неё (1400×460px).<br />•&nbsp;Добавьте ID всех "
+#~ "записей/страниц, которые хотите видеть в слайдере <br /> &nbsp;&nbsp;(Вы "
+#~ "можете найти ID ваших записей в последнем столбце в таблице с записями/"
+#~ "страницами [Консоль→Записи→Все записи].)<br />•&nbsp;Слайдер покажет "
+#~ "картинку, название записи и цитату (если не заполните, сделает сам) "
+#~ "выбранных записей"
+
+#~ msgid ""
+#~ "<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+#~ "Pages' respective ID in the All Pages' table in last column.) ."
+#~ msgstr ""
+#~ "<strong>Внимание:</strong> вы можете использовать ID записей и страниц "
+#~ "(Их можно найти в последнем столбце таблицы с записями "
+#~ "[Консоль→Записи→Все записи])."
+
+#~ msgid "Analytics"
+#~ msgstr "Аналитика"
+
+#~ msgid "Page %s"
+#~ msgstr "Страница %s"
+
+#~ msgid "Site Verification"
+#~ msgstr "Verifiser vevstad"
+
+#~ msgid "Google Site Verification ID"
+#~ msgstr "Google verifikasjons-ID"
+
+#~ msgid "Enter your Google ID number only"
+#~ msgstr "Skriv inn dit Google ID-nummer"
+
+#~ msgid "Yahoo Site Verification ID"
+#~ msgstr "Yahoo verifikasjons-ID"
+
+#~ msgid "Enter your Yahoo ID number only"
+#~ msgstr "Skriv inn dit Yahoo ID-nummer"
+
+#~ msgid "Bing Site Verification ID"
+#~ msgstr "Bing verifikasjons-ID"
+
+#~ msgid "Enter your Bing ID number only"
+#~ msgstr "Skriv inn dit Bing ID-nummer"
