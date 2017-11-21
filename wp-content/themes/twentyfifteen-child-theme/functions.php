@@ -14,6 +14,9 @@ add_action('wp_enqueue_scripts', 'enqueue_styles');
  ** Funcion que embebe archivos js a nuestro tema
  **/
 function enqueue_js() {
+	wp_enqueue_script('jQuery_js', 'https://code.jquery.com/jquery-3.2.1.slim.min.js', array(), '3.2.1', true);
+	wp_enqueue_script('popper_js', 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js', array(), '1.12.3', true);
+	wp_enqueue_script('bootstrap_js', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js', array(), '4.0.0-beta.2', true);
 	//wp_enqueue_script();
 }
 add_action('wp_enqueue_scripts', 'enqueue_js');
