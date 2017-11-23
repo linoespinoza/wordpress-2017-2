@@ -1,16 +1,24 @@
 <?php
-//
-// Recommended way to include parent theme styles.
-//  (Please see http://codex.wordpress.org/Child_Themes#How_to_Create_a_Child_Theme)
-//  
-add_action( 'wp_enqueue_scripts', 'theme_enqueue_styles' );
-function theme_enqueue_styles() {
-    wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
-    wp_enqueue_style( 'child-style',
-        get_stylesheet_directory_uri() . '/style.css',
-        array('parent-style')
-    );
+/**
+ ** Funcion que embebe archivos css a nuestro tema
+ **/
+function enqueue_styles() {
+
+	wp_enqueue_style('bootstrap_min_css', "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css");
+	wp_enqueue_style('carousel_css', get_template_directory_uri() . '/css/carousel.css');
+
 }
-//
-// Your code goes below
-//
+add_action('wp_enqueue_scripts', 'enqueue_styles');
+
+/**
+ ** Funcion que embebe archivos js a nuestro tema
+ **/
+function enqueue_js() {
+	wp_enqueue_script('jQuery_js', 'https://code.jquery.com/jquery-3.2.1.slim.min.js', array(), '3.2.1', true);
+	wp_enqueue_script('popper_js', 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js', array(), '1.12.3', true);
+	wp_enqueue_script('bootstrap_js', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js', array(), '4.0.0-beta.2', true);
+	//wp_enqueue_script();
+}
+add_action('wp_enqueue_scripts', 'enqueue_js');
+
+?>
