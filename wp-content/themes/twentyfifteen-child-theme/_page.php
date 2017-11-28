@@ -1,6 +1,6 @@
-<?php get_header(); ?>
+<?php // get_header(); ?>
+<h1>page.php</h1>
 <div class="mx-auto container">
-<h1>front-page.php </h1>
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>	
     <div class="">
 	    <div class="page-header">	
@@ -8,10 +8,9 @@
 	    </div>
 
 		<?php the_content(); ?>
-
-		<a href="<?php the_permalink(); ?>about">Ver página About</a>
 	</div>
 
 <?php endwhile; endif; ?>
 </div>
+
 <?php get_footer(); ?>

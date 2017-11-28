@@ -1,0 +1,1 @@
+<h2>Footer para la página de contacto</h2>

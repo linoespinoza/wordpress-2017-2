@@ -1,6 +1,11 @@
-<?php get_header(); ?>
+<?php
+/**
+ * Template Name: Contact Us
+ */
+?>
+<?php get_header("contact"); ?>
+<h1>page-contact</h1>
 <div class="mx-auto container">
-<h1>front-page.php</h1>
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>	
     <div class="">
 	    <div class="page-header">	
@@ -13,4 +18,4 @@
 <?php endwhile; endif; ?>
 </div>
 
-<?php get_footer(); ?>
+<?php get_footer("contacto"); ?>

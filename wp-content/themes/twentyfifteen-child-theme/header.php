@@ -13,7 +13,7 @@
   </head>
   <body>
 
-    <header>
+    <header <?php (is_user_logged_in())? "class='mt-4'": "class='mt-4'" ?>>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <a class="navbar-brand" href="#">Carousel</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
