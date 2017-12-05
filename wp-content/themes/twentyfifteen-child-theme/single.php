@@ -8,6 +8,7 @@
 	    </div>
 
 		<?php the_content(); ?>
+		<p><?php //echo get_the_author_link(); ?> </p>
 	</div>
 
 <?php endwhile; endif; ?>

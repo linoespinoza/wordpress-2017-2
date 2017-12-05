@@ -39,6 +39,34 @@
       </nav>
     </header>
 
+    <?php 
+
+      $defaults = array(
+        'container' => 'ul',
+        'theme_location' => 'Menu Principal',
+        'menu_class'  => 'nav flex-column'
+      );
+
+      // Función que nos devuelve un menu
+      wp_nav_menu( $defaults );
+    ?>
+
+    <!-- 
+    <ul class="nav flex-column">
+      <li class="nav-item">
+        <a class="nav-link active" href="#">Active</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+    </ul> -->
+
     <main role="main">
 
       <div id="myCarousel" class="carousel slide" data-ride="carousel">
